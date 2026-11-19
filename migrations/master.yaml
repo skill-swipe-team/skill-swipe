@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: changelogs/ssk-2.xml
+      relativeToChangelogFile: true
