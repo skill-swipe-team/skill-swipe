@@ -1,0 +1,38 @@
+services:
+  postgres:
+    image: postgres:17
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:?Set POSTGRES_DB in .env}
+      POSTGRES_USER: ${POSTGRES_USER:?Set POSTGRES_USER in .env}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:?Set POSTGRES_PORT in .env}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U \"$$POSTGRES_USER\" -d \"$$POSTGRES_DB\""]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  migrate:
+    build: ./migrations
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      LIQUIBASE_COMMAND_URL: jdbc:postgresql://postgres:5432/${POSTGRES_DB:?Set POSTGRES_DB in .env}?currentSchema=skillswipe
+      LIQUIBASE_COMMAND_USERNAME: ${POSTGRES_USER:?Set POSTGRES_USER in .env}
+      LIQUIBASE_COMMAND_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      LIQUIBASE_COMMAND_CHANGELOG_FILE: master.yaml
+      LIQUIBASE_COMMAND_DEFAULT_SCHEMA_NAME: skillswipe
+      LIQUIBASE_LIQUIBASE_SCHEMA_NAME: public
+      LIQUIBASE_SEARCH_PATH: /liquibase/changelog
+    volumes:
+      - ./migrations:/liquibase/changelog:ro
+    command: ["update"]
+
+volumes:
+  postgres_data:

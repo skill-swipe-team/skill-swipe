@@ -5,6 +5,8 @@ from typing import Literal
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+from backend.database import lifespan
+
 
 class HealthResponse(BaseModel):
     status: Literal["ok"]
@@ -17,6 +19,7 @@ app = FastAPI(
     docs_url="/docs",
     redoc_url="/redoc",
     openapi_url="/openapi.json",
+    lifespan=lifespan,
 )
 
 
