@@ -1,0 +1,54 @@
+﻿role_id,parent_role_id,title_ru,title_en,category,hh_professional_role_id
+R001,,Backend-разработчик,Backend Developer,Разработка,96
+R002,R001,Python-разработчик,Python Developer,Разработка,96
+R003,R001,Java-разработчик,Java Developer,Разработка,96
+R004,R001,C#/.NET-разработчик,C#/.NET Developer,Разработка,96
+R005,R001,PHP-разработчик,PHP Developer,Разработка,96
+R006,R001,Go-разработчик,Golang Developer,Разработка,96
+R007,R001,Node.js-разработчик,Node.js Developer,Разработка,96
+R008,R001,C++ разработчик,C++ Developer,Разработка,96
+R009,,1С-программист,1C Developer,Разработка,96
+R010,,Frontend-разработчик,Frontend Developer,Разработка,96
+R011,R010,Верстальщик,HTML/CSS Markup Developer,Разработка,96
+R012,,Fullstack-разработчик,Full-stack Developer,Разработка,96
+R013,R053,iOS-разработчик,iOS Developer,Разработка,96
+R014,R053,Android-разработчик,Android Developer,Разработка,96
+R015,R053,Кроссплатформенный мобильный разработчик,Cross-platform Mobile Developer,Разработка,96
+R016,,Разработчик игр,Game Developer,Разработка,96
+R017,,Embedded-разработчик,Embedded Software Engineer,Разработка,96
+R018,,Инженер-программист,Software Engineer,Разработка,96
+R019,,Тестировщик (QA),QA Engineer,Тестирование,124
+R020,R019,Автотестировщик (QA Automation),QA Automation Engineer,Тестирование,124
+R021,R019,Руководитель отдела тестирования,QA Lead,Тестирование,124
+R022,R019,Инженер по нагрузочному тестированию,Performance Test Engineer,Тестирование,124
+R023,,DevOps-инженер,DevOps Engineer,Инфраструктура,160
+R024,R023,SRE-инженер,Site Reliability Engineer,Инфраструктура,160
+R025,,Системный администратор,System Administrator,Инфраструктура,113
+R026,,Сетевой инженер,Network Engineer,Инфраструктура,112
+R027,,Системный инженер,Systems Engineer,Инфраструктура,114
+R028,,Специалист технической поддержки,Technical Support Specialist,Поддержка,121
+R029,,Специалист по информационной безопасности,Information Security Specialist,Безопасность,116
+R030,,Аналитик данных,Data Analyst,Данные и аналитика,10
+R031,R030,BI-аналитик,BI Analyst,Данные и аналитика,156
+R032,R030,Продуктовый аналитик,Product Analyst,Данные и аналитика,164
+R033,,Data Scientist,Data Scientist,Данные и аналитика,165
+R034,R033,ML-инженер,Machine Learning Engineer,Данные и аналитика,165
+R035,,Data-инженер,Data Engineer,Данные и аналитика,96
+R036,,Администратор баз данных,Database Administrator,Данные и аналитика,
+R037,,Системный аналитик,Systems Analyst,Аналитика и проекты,148
+R038,,Бизнес-аналитик,Business Analyst,Аналитика и проекты,150
+R039,R037,Аналитик 1С,1C Analyst,Аналитика и проекты,148
+R040,,Руководитель проектов,Project Manager,Аналитика и проекты,107
+R041,R040,Администратор проектов / PMO,Project Administrator / PMO Specialist,Аналитика и проекты,107
+R042,R040,Scrum-мастер,Scrum Master,Аналитика и проекты,107
+R043,,Менеджер продукта,Product Manager,Продукт,73
+R044,R045,Технический лидер (Tech Lead),Tech Lead,Менеджмент IT,104
+R045,,Руководитель группы разработки,Development Team Lead,Менеджмент IT,104
+R046,,Архитектор ПО,Software Architect,Менеджмент IT,96
+R047,,Технический директор (CTO),Chief Technology Officer,Менеджмент IT,125
+R048,,Директор по информационным технологиям (CIO),Chief Information Officer,Менеджмент IT,36
+R049,,Технический писатель,Technical Writer,Документация,126
+R050,,UI/UX-дизайнер,UI/UX Designer,Дизайн,34
+R051,,ERP-консультант,ERP Consultant,Аналитика и проекты,148
+R052,R001,Интеграционный разработчик,Integration Developer,Разработка,96
+R053,,Мобильный разработчик,Mobile Developer,Разработка,96

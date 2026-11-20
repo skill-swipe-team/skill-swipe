@@ -1,0 +1,703 @@
+﻿id,role_id,skill_id,importance,role_title_ru (справочно),skill_name (справочно)
+RK0001,R001,S022,core,Backend-разработчик,SQL
+RK0002,R001,S055,core,Backend-разработчик,REST API
+RK0003,R001,S064,core,Backend-разработчик,Git
+RK0004,R001,S059,core,Backend-разработчик,Микросервисы
+RK0005,R001,S060,core,Backend-разработчик,ООП
+RK0006,R001,S023,common,Backend-разработчик,PostgreSQL
+RK0007,R001,S065,common,Backend-разработчик,Docker
+RK0008,R001,S031,common,Backend-разработчик,Kafka
+RK0009,R001,S032,common,Backend-разработчик,RabbitMQ
+RK0010,R001,S029,common,Backend-разработчик,Redis
+RK0011,R001,S067,common,Backend-разработчик,CI/CD
+RK0012,R001,S068,common,Backend-разработчик,Linux
+RK0013,R001,S057,common,Backend-разработчик,gRPC
+RK0014,R001,S066,common,Backend-разработчик,Kubernetes
+RK0015,R001,S137,common,Backend-разработчик,Английский язык
+RK0016,R002,S001,core,Python-разработчик,Python
+RK0017,R002,S022,core,Python-разработчик,SQL
+RK0018,R002,S055,core,Python-разработчик,REST API
+RK0019,R002,S064,core,Python-разработчик,Git
+RK0020,R002,S060,core,Python-разработчик,ООП
+RK0021,R002,S039,common,Python-разработчик,Django
+RK0022,R002,S040,common,Python-разработчик,FastAPI
+RK0023,R002,S041,common,Python-разработчик,Flask
+RK0024,R002,S023,common,Python-разработчик,PostgreSQL
+RK0025,R002,S065,common,Python-разработчик,Docker
+RK0026,R002,S029,common,Python-разработчик,Redis
+RK0027,R002,S032,common,Python-разработчик,RabbitMQ
+RK0028,R002,S031,common,Python-разработчик,Kafka
+RK0029,R002,S068,common,Python-разработчик,Linux
+RK0030,R002,S067,common,Python-разработчик,CI/CD
+RK0031,R002,S059,common,Python-разработчик,Микросервисы
+RK0032,R002,S096,common,Python-разработчик,Pandas
+RK0033,R003,S002,core,Java-разработчик,Java
+RK0034,R003,S038,core,Java-разработчик,Spring
+RK0035,R003,S022,core,Java-разработчик,SQL
+RK0036,R003,S055,core,Java-разработчик,REST API
+RK0037,R003,S064,core,Java-разработчик,Git
+RK0038,R003,S060,core,Java-разработчик,ООП
+RK0039,R003,S023,common,Java-разработчик,PostgreSQL
+RK0040,R003,S031,common,Java-разработчик,Kafka
+RK0041,R003,S065,common,Java-разработчик,Docker
+RK0042,R003,S066,common,Java-разработчик,Kubernetes
+RK0043,R003,S059,common,Java-разработчик,Микросервисы
+RK0044,R003,S026,common,Java-разработчик,Oracle Database
+RK0045,R003,S032,common,Java-разработчик,RabbitMQ
+RK0046,R003,S067,common,Java-разработчик,CI/CD
+RK0047,R003,S033,common,Java-разработчик,Hadoop
+RK0048,R003,S003,common,Java-разработчик,Kotlin
+RK0049,R004,S004,core,C#/.NET-разработчик,C#
+RK0050,R004,S005,core,C#/.NET-разработчик,.NET
+RK0051,R004,S022,core,C#/.NET-разработчик,SQL
+RK0052,R004,S055,core,C#/.NET-разработчик,REST API
+RK0053,R004,S064,core,C#/.NET-разработчик,Git
+RK0054,R004,S060,core,C#/.NET-разработчик,ООП
+RK0055,R004,S025,common,C#/.NET-разработчик,MS SQL Server
+RK0056,R004,S023,common,C#/.NET-разработчик,PostgreSQL
+RK0057,R004,S065,common,C#/.NET-разработчик,Docker
+RK0058,R004,S032,common,C#/.NET-разработчик,RabbitMQ
+RK0059,R004,S029,common,C#/.NET-разработчик,Redis
+RK0060,R004,S059,common,C#/.NET-разработчик,Микросервисы
+RK0061,R004,S067,common,C#/.NET-разработчик,CI/CD
+RK0062,R004,S069,common,C#/.NET-разработчик,Windows Server
+RK0063,R004,S077,common,C#/.NET-разработчик,Azure
+RK0064,R005,S006,core,PHP-разработчик,PHP
+RK0065,R005,S022,core,PHP-разработчик,SQL
+RK0066,R005,S024,core,PHP-разработчик,MySQL
+RK0067,R005,S055,core,PHP-разработчик,REST API
+RK0068,R005,S064,core,PHP-разработчик,Git
+RK0069,R005,S060,core,PHP-разработчик,ООП
+RK0070,R005,S042,common,PHP-разработчик,Laravel
+RK0071,R005,S043,common,PHP-разработчик,Symfony
+RK0072,R005,S023,common,PHP-разработчик,PostgreSQL
+RK0073,R005,S029,common,PHP-разработчик,Redis
+RK0074,R005,S065,common,PHP-разработчик,Docker
+RK0075,R005,S072,common,PHP-разработчик,Nginx
+RK0076,R005,S068,common,PHP-разработчик,Linux
+RK0077,R005,S008,common,PHP-разработчик,JavaScript
+RK0078,R005,S048,common,PHP-разработчик,HTML/CSS
+RK0079,R005,S030,common,PHP-разработчик,Elasticsearch
+RK0080,R006,S007,core,Go-разработчик,Go
+RK0081,R006,S022,core,Go-разработчик,SQL
+RK0082,R006,S055,core,Go-разработчик,REST API
+RK0083,R006,S064,core,Go-разработчик,Git
+RK0084,R006,S059,core,Go-разработчик,Микросервисы
+RK0085,R006,S023,common,Go-разработчик,PostgreSQL
+RK0086,R006,S057,common,Go-разработчик,gRPC
+RK0087,R006,S031,common,Go-разработчик,Kafka
+RK0088,R006,S065,common,Go-разработчик,Docker
+RK0089,R006,S066,common,Go-разработчик,Kubernetes
+RK0090,R006,S029,common,Go-разработчик,Redis
+RK0091,R006,S027,common,Go-разработчик,ClickHouse
+RK0092,R006,S068,common,Go-разработчик,Linux
+RK0093,R006,S067,common,Go-разработчик,CI/CD
+RK0094,R007,S008,core,Node.js-разработчик,JavaScript
+RK0095,R007,S009,core,Node.js-разработчик,TypeScript
+RK0096,R007,S044,core,Node.js-разработчик,Node.js
+RK0097,R007,S022,core,Node.js-разработчик,SQL
+RK0098,R007,S055,core,Node.js-разработчик,REST API
+RK0099,R007,S064,core,Node.js-разработчик,Git
+RK0100,R007,S023,common,Node.js-разработчик,PostgreSQL
+RK0101,R007,S028,common,Node.js-разработчик,MongoDB
+RK0102,R007,S029,common,Node.js-разработчик,Redis
+RK0103,R007,S065,common,Node.js-разработчик,Docker
+RK0104,R007,S056,common,Node.js-разработчик,GraphQL
+RK0105,R007,S031,common,Node.js-разработчик,Kafka
+RK0106,R007,S032,common,Node.js-разработчик,RabbitMQ
+RK0107,R007,S059,common,Node.js-разработчик,Микросервисы
+RK0108,R007,S067,common,Node.js-разработчик,CI/CD
+RK0109,R008,S010,core,C++ разработчик,C++
+RK0110,R008,S060,core,C++ разработчик,ООП
+RK0111,R008,S064,core,C++ разработчик,Git
+RK0112,R008,S068,core,C++ разработчик,Linux
+RK0113,R008,S011,common,C++ разработчик,C
+RK0114,R008,S022,common,C++ разработчик,SQL
+RK0115,R008,S065,common,C++ разработчик,Docker
+RK0116,R008,S067,common,C++ разработчик,CI/CD
+RK0117,R008,S001,common,C++ разработчик,Python
+RK0118,R008,S079,common,C++ разработчик,Сети (TCP/IP)
+RK0119,R008,S059,common,C++ разработчик,Микросервисы
+RK0120,R008,S069,common,C++ разработчик,Windows Server
+RK0121,R009,S019,core,1С-программист,1С:Предприятие
+RK0122,R009,S022,core,1С-программист,SQL
+RK0123,R009,S064,core,1С-программист,Git
+RK0124,R009,S020,common,1С-программист,1С:ERP
+RK0125,R009,S055,common,1С-программист,REST API
+RK0126,R009,S061,common,1С-программист,JSON/XML
+RK0127,R009,S062,common,1С-программист,Интеграция систем
+RK0128,R009,S113,common,1С-программист,Сбор и анализ требований
+RK0129,R009,S114,common,1С-программист,Техническое задание
+RK0130,R009,S093,common,1С-программист,Jira
+RK0131,R009,S094,common,1С-программист,Confluence
+RK0132,R009,S025,common,1С-программист,MS SQL Server
+RK0133,R009,S023,common,1С-программист,PostgreSQL
+RK0134,R009,S069,common,1С-программист,Windows Server
+RK0135,R010,S008,core,Frontend-разработчик,JavaScript
+RK0136,R010,S009,core,Frontend-разработчик,TypeScript
+RK0137,R010,S048,core,Frontend-разработчик,HTML/CSS
+RK0138,R010,S045,core,Frontend-разработчик,React
+RK0139,R010,S064,core,Frontend-разработчик,Git
+RK0140,R010,S046,common,Frontend-разработчик,Vue.js
+RK0141,R010,S047,common,Frontend-разработчик,Angular
+RK0142,R010,S055,common,Frontend-разработчик,REST API
+RK0143,R010,S056,common,Frontend-разработчик,GraphQL
+RK0144,R010,S116,common,Frontend-разработчик,Figma
+RK0145,R010,S044,common,Frontend-разработчик,Node.js
+RK0146,R010,S067,common,Frontend-разработчик,CI/CD
+RK0147,R010,S065,common,Frontend-разработчик,Docker
+RK0148,R010,S137,common,Frontend-разработчик,Английский язык
+RK0149,R011,S048,core,Верстальщик,HTML/CSS
+RK0150,R011,S008,core,Верстальщик,JavaScript
+RK0151,R011,S064,core,Верстальщик,Git
+RK0152,R011,S116,core,Верстальщик,Figma
+RK0153,R011,S045,common,Верстальщик,React
+RK0154,R011,S046,common,Верстальщик,Vue.js
+RK0155,R011,S115,common,Верстальщик,Прототипирование
+RK0156,R011,S137,common,Верстальщик,Английский язык
+RK0157,R012,S008,core,Fullstack-разработчик,JavaScript
+RK0158,R012,S009,core,Fullstack-разработчик,TypeScript
+RK0159,R012,S048,core,Fullstack-разработчик,HTML/CSS
+RK0160,R012,S045,core,Fullstack-разработчик,React
+RK0161,R012,S044,core,Fullstack-разработчик,Node.js
+RK0162,R012,S022,core,Fullstack-разработчик,SQL
+RK0163,R012,S055,core,Fullstack-разработчик,REST API
+RK0164,R012,S064,core,Fullstack-разработчик,Git
+RK0165,R012,S046,common,Fullstack-разработчик,Vue.js
+RK0166,R012,S001,common,Fullstack-разработчик,Python
+RK0167,R012,S023,common,Fullstack-разработчик,PostgreSQL
+RK0168,R012,S028,common,Fullstack-разработчик,MongoDB
+RK0169,R012,S065,common,Fullstack-разработчик,Docker
+RK0170,R012,S067,common,Fullstack-разработчик,CI/CD
+RK0171,R012,S056,common,Fullstack-разработчик,GraphQL
+RK0172,R012,S029,common,Fullstack-разработчик,Redis
+RK0173,R012,S068,common,Fullstack-разработчик,Linux
+RK0174,R013,S012,core,iOS-разработчик,Swift
+RK0175,R013,S052,core,iOS-разработчик,iOS SDK
+RK0176,R013,S055,core,iOS-разработчик,REST API
+RK0177,R013,S064,core,iOS-разработчик,Git
+RK0178,R013,S060,core,iOS-разработчик,ООП
+RK0179,R013,S013,common,iOS-разработчик,Objective-C
+RK0180,R013,S116,common,iOS-разработчик,Figma
+RK0181,R013,S067,common,iOS-разработчик,CI/CD
+RK0182,R013,S139,common,iOS-разработчик,Firebase
+RK0183,R013,S003,common,iOS-разработчик,Kotlin
+RK0184,R013,S137,common,iOS-разработчик,Английский язык
+RK0185,R014,S003,core,Android-разработчик,Kotlin
+RK0186,R014,S051,core,Android-разработчик,Android SDK
+RK0187,R014,S055,core,Android-разработчик,REST API
+RK0188,R014,S064,core,Android-разработчик,Git
+RK0189,R014,S060,core,Android-разработчик,ООП
+RK0190,R014,S002,common,Android-разработчик,Java
+RK0191,R014,S067,common,Android-разработчик,CI/CD
+RK0192,R014,S116,common,Android-разработчик,Figma
+RK0193,R014,S049,common,Android-разработчик,Flutter
+RK0194,R014,S137,common,Android-разработчик,Английский язык
+RK0195,R015,S049,core,Кроссплатформенный мобильный разработчик,Flutter
+RK0196,R015,S014,core,Кроссплатформенный мобильный разработчик,Dart
+RK0197,R015,S050,core,Кроссплатформенный мобильный разработчик,React Native
+RK0198,R015,S055,core,Кроссплатформенный мобильный разработчик,REST API
+RK0199,R015,S064,core,Кроссплатформенный мобильный разработчик,Git
+RK0200,R015,S003,common,Кроссплатформенный мобильный разработчик,Kotlin
+RK0201,R015,S012,common,Кроссплатформенный мобильный разработчик,Swift
+RK0202,R015,S009,common,Кроссплатформенный мобильный разработчик,TypeScript
+RK0203,R015,S067,common,Кроссплатформенный мобильный разработчик,CI/CD
+RK0204,R015,S116,common,Кроссплатформенный мобильный разработчик,Figma
+RK0205,R015,S052,common,Кроссплатформенный мобильный разработчик,iOS SDK
+RK0206,R015,S051,common,Кроссплатформенный мобильный разработчик,Android SDK
+RK0207,R016,S053,core,Разработчик игр,Unity
+RK0208,R016,S004,core,Разработчик игр,C#
+RK0209,R016,S060,core,Разработчик игр,ООП
+RK0210,R016,S064,core,Разработчик игр,Git
+RK0211,R016,S054,common,Разработчик игр,Unreal Engine
+RK0212,R016,S010,common,Разработчик игр,C++
+RK0213,R016,S001,common,Разработчик игр,Python
+RK0214,R016,S093,common,Разработчик игр,Jira
+RK0215,R016,S116,common,Разработчик игр,Figma
+RK0216,R016,S137,common,Разработчик игр,Английский язык
+RK0217,R017,S011,core,Embedded-разработчик,C
+RK0218,R017,S010,core,Embedded-разработчик,C++
+RK0219,R017,S064,core,Embedded-разработчик,Git
+RK0220,R017,S068,core,Embedded-разработчик,Linux
+RK0221,R017,S001,common,Embedded-разработчик,Python
+RK0222,R017,S079,common,Embedded-разработчик,Сети (TCP/IP)
+RK0223,R017,S067,common,Embedded-разработчик,CI/CD
+RK0224,R017,S065,common,Embedded-разработчик,Docker
+RK0225,R017,S137,common,Embedded-разработчик,Английский язык
+RK0226,R018,S064,core,Инженер-программист,Git
+RK0227,R018,S022,core,Инженер-программист,SQL
+RK0228,R018,S060,core,Инженер-программист,ООП
+RK0229,R018,S001,common,Инженер-программист,Python
+RK0230,R018,S002,common,Инженер-программист,Java
+RK0231,R018,S004,common,Инженер-программист,C#
+RK0232,R018,S010,common,Инженер-программист,C++
+RK0233,R018,S055,common,Инженер-программист,REST API
+RK0234,R018,S065,common,Инженер-программист,Docker
+RK0235,R018,S068,common,Инженер-программист,Linux
+RK0236,R018,S067,common,Инженер-программист,CI/CD
+RK0237,R018,S137,common,Инженер-программист,Английский язык
+RK0238,R019,S088,core,Тестировщик (QA),Ручное тестирование
+RK0239,R019,S090,core,Тестировщик (QA),Тест-документация
+RK0240,R019,S022,core,Тестировщик (QA),SQL
+RK0241,R019,S093,core,Тестировщик (QA),Jira
+RK0242,R019,S092,core,Тестировщик (QA),API-тестирование
+RK0243,R019,S118,common,Тестировщик (QA),Postman
+RK0244,R019,S095,common,Тестировщик (QA),TestRail
+RK0245,R019,S094,common,Тестировщик (QA),Confluence
+RK0246,R019,S064,common,Тестировщик (QA),Git
+RK0247,R019,S068,common,Тестировщик (QA),Linux
+RK0248,R019,S121,common,Тестировщик (QA),Agile
+RK0249,R019,S120,common,Тестировщик (QA),Scrum
+RK0250,R019,S089,common,Тестировщик (QA),Автоматизация тестирования
+RK0251,R020,S089,core,Автотестировщик (QA Automation),Автоматизация тестирования
+RK0252,R020,S092,core,Автотестировщик (QA Automation),API-тестирование
+RK0253,R020,S022,core,Автотестировщик (QA Automation),SQL
+RK0254,R020,S064,core,Автотестировщик (QA Automation),Git
+RK0255,R020,S067,core,Автотестировщик (QA Automation),CI/CD
+RK0256,R020,S060,core,Автотестировщик (QA Automation),ООП
+RK0257,R020,S001,common,Автотестировщик (QA Automation),Python
+RK0258,R020,S002,common,Автотестировщик (QA Automation),Java
+RK0259,R020,S003,common,Автотестировщик (QA Automation),Kotlin
+RK0260,R020,S008,common,Автотестировщик (QA Automation),JavaScript
+RK0261,R020,S009,common,Автотестировщик (QA Automation),TypeScript
+RK0262,R020,S065,common,Автотестировщик (QA Automation),Docker
+RK0263,R020,S093,common,Автотестировщик (QA Automation),Jira
+RK0264,R020,S095,common,Автотестировщик (QA Automation),TestRail
+RK0265,R020,S091,common,Автотестировщик (QA Automation),Нагрузочное тестирование
+RK0266,R020,S090,common,Автотестировщик (QA Automation),Тест-документация
+RK0267,R020,S068,common,Автотестировщик (QA Automation),Linux
+RK0268,R020,S066,common,Автотестировщик (QA Automation),Kubernetes
+RK0269,R021,S088,core,Руководитель отдела тестирования,Ручное тестирование
+RK0270,R021,S089,core,Руководитель отдела тестирования,Автоматизация тестирования
+RK0271,R021,S090,core,Руководитель отдела тестирования,Тест-документация
+RK0272,R021,S129,core,Руководитель отдела тестирования,Управление командой
+RK0273,R021,S093,core,Руководитель отдела тестирования,Jira
+RK0274,R021,S120,common,Руководитель отдела тестирования,Scrum
+RK0275,R021,S121,common,Руководитель отдела тестирования,Agile
+RK0276,R021,S122,common,Руководитель отдела тестирования,Kanban
+RK0277,R021,S067,common,Руководитель отдела тестирования,CI/CD
+RK0278,R021,S125,common,Руководитель отдела тестирования,Управление рисками
+RK0279,R021,S127,common,Руководитель отдела тестирования,Планирование
+RK0280,R021,S130,common,Руководитель отдела тестирования,Работа со стейкхолдерами
+RK0281,R021,S133,common,Руководитель отдела тестирования,KPI/метрики проекта
+RK0282,R022,S091,core,Инженер по нагрузочному тестированию,Нагрузочное тестирование
+RK0283,R022,S022,core,Инженер по нагрузочному тестированию,SQL
+RK0284,R022,S068,core,Инженер по нагрузочному тестированию,Linux
+RK0285,R022,S073,core,Инженер по нагрузочному тестированию,Prometheus/Grafana
+RK0286,R022,S001,common,Инженер по нагрузочному тестированию,Python
+RK0287,R022,S002,common,Инженер по нагрузочному тестированию,Java
+RK0288,R022,S065,common,Инженер по нагрузочному тестированию,Docker
+RK0289,R022,S066,common,Инженер по нагрузочному тестированию,Kubernetes
+RK0290,R022,S067,common,Инженер по нагрузочному тестированию,CI/CD
+RK0291,R022,S092,common,Инженер по нагрузочному тестированию,API-тестирование
+RK0292,R022,S064,common,Инженер по нагрузочному тестированию,Git
+RK0293,R023,S065,core,DevOps-инженер,Docker
+RK0294,R023,S066,core,DevOps-инженер,Kubernetes
+RK0295,R023,S067,core,DevOps-инженер,CI/CD
+RK0296,R023,S068,core,DevOps-инженер,Linux
+RK0297,R023,S064,core,DevOps-инженер,Git
+RK0298,R023,S071,core,DevOps-инженер,Terraform
+RK0299,R023,S070,core,DevOps-инженер,Ansible
+RK0300,R023,S073,common,DevOps-инженер,Prometheus/Grafana
+RK0301,R023,S072,common,DevOps-инженер,Nginx
+RK0302,R023,S074,common,DevOps-инженер,AWS
+RK0303,R023,S075,common,DevOps-инженер,Яндекс.Облако
+RK0304,R023,S076,common,DevOps-инженер,VK Cloud
+RK0305,R023,S001,common,DevOps-инженер,Python
+RK0306,R023,S031,common,DevOps-инженер,Kafka
+RK0307,R023,S023,common,DevOps-инженер,PostgreSQL
+RK0308,R023,S079,common,DevOps-инженер,Сети (TCP/IP)
+RK0309,R023,S078,common,DevOps-инженер,Виртуализация
+RK0310,R024,S068,core,SRE-инженер,Linux
+RK0311,R024,S066,core,SRE-инженер,Kubernetes
+RK0312,R024,S073,core,SRE-инженер,Prometheus/Grafana
+RK0313,R024,S065,core,SRE-инженер,Docker
+RK0314,R024,S067,core,SRE-инженер,CI/CD
+RK0315,R024,S001,core,SRE-инженер,Python
+RK0316,R024,S071,common,SRE-инженер,Terraform
+RK0317,R024,S070,common,SRE-инженер,Ansible
+RK0318,R024,S007,common,SRE-инженер,Go
+RK0319,R024,S079,common,SRE-инженер,Сети (TCP/IP)
+RK0320,R024,S023,common,SRE-инженер,PostgreSQL
+RK0321,R024,S031,common,SRE-инженер,Kafka
+RK0322,R024,S064,common,SRE-инженер,Git
+RK0323,R025,S068,core,Системный администратор,Linux
+RK0324,R025,S069,core,Системный администратор,Windows Server
+RK0325,R025,S079,core,Системный администратор,Сети (TCP/IP)
+RK0326,R025,S078,core,Системный администратор,Виртуализация
+RK0327,R025,S073,common,Системный администратор,Prometheus/Grafana
+RK0328,R025,S065,common,Системный администратор,Docker
+RK0329,R025,S070,common,Системный администратор,Ansible
+RK0330,R025,S082,common,Системный администратор,Firewall
+RK0331,R025,S072,common,Системный администратор,Nginx
+RK0332,R025,S023,common,Системный администратор,PostgreSQL
+RK0333,R025,S083,common,Системный администратор,Информационная безопасность
+RK0334,R025,S134,common,Системный администратор,ITIL
+RK0335,R026,S079,core,Сетевой инженер,Сети (TCP/IP)
+RK0336,R026,S080,core,Сетевой инженер,Cisco
+RK0337,R026,S082,core,Сетевой инженер,Firewall
+RK0338,R026,S081,common,Сетевой инженер,Mikrotik
+RK0339,R026,S068,common,Сетевой инженер,Linux
+RK0340,R026,S073,common,Сетевой инженер,Prometheus/Grafana
+RK0341,R026,S083,common,Сетевой инженер,Информационная безопасность
+RK0342,R026,S078,common,Сетевой инженер,Виртуализация
+RK0343,R027,S078,core,Системный инженер,Виртуализация
+RK0344,R027,S068,core,Системный инженер,Linux
+RK0345,R027,S069,core,Системный инженер,Windows Server
+RK0346,R027,S079,core,Системный инженер,Сети (TCP/IP)
+RK0347,R027,S065,common,Системный инженер,Docker
+RK0348,R027,S066,common,Системный инженер,Kubernetes
+RK0349,R027,S070,common,Системный инженер,Ansible
+RK0350,R027,S073,common,Системный инженер,Prometheus/Grafana
+RK0351,R027,S082,common,Системный инженер,Firewall
+RK0352,R027,S074,common,Системный инженер,AWS
+RK0353,R027,S075,common,Системный инженер,Яндекс.Облако
+RK0354,R027,S071,common,Системный инженер,Terraform
+RK0355,R028,S069,core,Специалист технической поддержки,Windows Server
+RK0356,R028,S068,core,Специалист технической поддержки,Linux
+RK0357,R028,S079,core,Специалист технической поддержки,Сети (TCP/IP)
+RK0358,R028,S134,core,Специалист технической поддержки,ITIL
+RK0359,R028,S093,core,Специалист технической поддержки,Jira
+RK0360,R028,S022,common,Специалист технической поддержки,SQL
+RK0361,R028,S094,common,Специалист технической поддержки,Confluence
+RK0362,R028,S073,common,Специалист технической поддержки,Prometheus/Grafana
+RK0363,R028,S137,common,Специалист технической поддержки,Английский язык
+RK0364,R029,S083,core,Специалист по информационной безопасности,Информационная безопасность
+RK0365,R029,S085,core,Специалист по информационной безопасности,SIEM/SOC
+RK0366,R029,S079,core,Специалист по информационной безопасности,Сети (TCP/IP)
+RK0367,R029,S068,core,Специалист по информационной безопасности,Linux
+RK0368,R029,S084,common,Специалист по информационной безопасности,Пентест
+RK0369,R029,S082,common,Специалист по информационной безопасности,Firewall
+RK0370,R029,S086,common,Специалист по информационной безопасности,Криптография/PKI
+RK0371,R029,S087,common,Специалист по информационной безопасности,Регуляторика ИБ
+RK0372,R029,S001,common,Специалист по информационной безопасности,Python
+RK0373,R029,S069,common,Специалист по информационной безопасности,Windows Server
+RK0374,R029,S065,common,Специалист по информационной безопасности,Docker
+RK0375,R030,S022,core,Аналитик данных,SQL
+RK0376,R030,S107,core,Аналитик данных,Excel
+RK0377,R030,S119,core,Аналитик данных,Анализ данных
+RK0378,R030,S102,core,Аналитик данных,Статистика
+RK0379,R030,S109,core,Аналитик данных,Python для анализа данных
+RK0380,R030,S001,common,Аналитик данных,Python
+RK0381,R030,S096,common,Аналитик данных,Pandas
+RK0382,R030,S103,common,Аналитик данных,Power BI
+RK0383,R030,S104,common,Аналитик данных,Tableau
+RK0384,R030,S105,common,Аналитик данных,DataLens
+RK0385,R030,S106,common,Аналитик данных,Superset
+RK0386,R030,S027,common,Аналитик данных,ClickHouse
+RK0387,R030,S023,common,Аналитик данных,PostgreSQL
+RK0388,R030,S108,common,Аналитик данных,Google Analytics
+RK0389,R030,S036,common,Аналитик данных,ETL
+RK0390,R031,S022,core,BI-аналитик,SQL
+RK0391,R031,S103,core,BI-аналитик,Power BI
+RK0392,R031,S104,core,BI-аналитик,Tableau
+RK0393,R031,S105,core,BI-аналитик,DataLens
+RK0394,R031,S119,core,BI-аналитик,Анализ данных
+RK0395,R031,S037,core,BI-аналитик,DWH
+RK0396,R031,S106,common,BI-аналитик,Superset
+RK0397,R031,S107,common,BI-аналитик,Excel
+RK0398,R031,S001,common,BI-аналитик,Python
+RK0399,R031,S027,common,BI-аналитик,ClickHouse
+RK0400,R031,S036,common,BI-аналитик,ETL
+RK0401,R031,S113,common,BI-аналитик,Сбор и анализ требований
+RK0402,R031,S094,common,BI-аналитик,Confluence
+RK0403,R032,S022,core,Продуктовый аналитик,SQL
+RK0404,R032,S108,core,Продуктовый аналитик,Google Analytics
+RK0405,R032,S102,core,Продуктовый аналитик,Статистика
+RK0406,R032,S119,core,Продуктовый аналитик,Анализ данных
+RK0407,R032,S109,core,Продуктовый аналитик,Python для анализа данных
+RK0408,R032,S001,common,Продуктовый аналитик,Python
+RK0409,R032,S096,common,Продуктовый аналитик,Pandas
+RK0410,R032,S027,common,Продуктовый аналитик,ClickHouse
+RK0411,R032,S104,common,Продуктовый аналитик,Tableau
+RK0412,R032,S105,common,Продуктовый аналитик,DataLens
+RK0413,R032,S106,common,Продуктовый аналитик,Superset
+RK0414,R032,S135,common,Продуктовый аналитик,Product Management
+RK0415,R032,S107,common,Продуктовый аналитик,Excel
+RK0416,R033,S001,core,Data Scientist,Python
+RK0417,R033,S097,core,Data Scientist,Машинное обучение
+RK0418,R033,S102,core,Data Scientist,Статистика
+RK0419,R033,S022,core,Data Scientist,SQL
+RK0420,R033,S096,core,Data Scientist,Pandas
+RK0421,R033,S098,common,Data Scientist,Глубокое обучение
+RK0422,R033,S099,common,Data Scientist,NLP/LLM
+RK0423,R033,S100,common,Data Scientist,Computer Vision
+RK0424,R033,S034,common,Data Scientist,Spark
+RK0425,R033,S064,common,Data Scientist,Git
+RK0426,R033,S065,common,Data Scientist,Docker
+RK0427,R033,S033,common,Data Scientist,Hadoop
+RK0428,R033,S101,common,Data Scientist,MLOps
+RK0429,R034,S001,core,ML-инженер,Python
+RK0430,R034,S097,core,ML-инженер,Машинное обучение
+RK0431,R034,S098,core,ML-инженер,Глубокое обучение
+RK0432,R034,S101,core,ML-инженер,MLOps
+RK0433,R034,S064,core,ML-инженер,Git
+RK0434,R034,S065,core,ML-инженер,Docker
+RK0435,R034,S099,common,ML-инженер,NLP/LLM
+RK0436,R034,S100,common,ML-инженер,Computer Vision
+RK0437,R034,S066,common,ML-инженер,Kubernetes
+RK0438,R034,S035,common,ML-инженер,Airflow
+RK0439,R034,S022,common,ML-инженер,SQL
+RK0440,R034,S034,common,ML-инженер,Spark
+RK0441,R034,S040,common,ML-инженер,FastAPI
+RK0442,R034,S067,common,ML-инженер,CI/CD
+RK0443,R034,S068,common,ML-инженер,Linux
+RK0444,R035,S022,core,Data-инженер,SQL
+RK0445,R035,S001,core,Data-инженер,Python
+RK0446,R035,S036,core,Data-инженер,ETL
+RK0447,R035,S037,core,Data-инженер,DWH
+RK0448,R035,S035,core,Data-инженер,Airflow
+RK0449,R035,S034,core,Data-инженер,Spark
+RK0450,R035,S031,common,Data-инженер,Kafka
+RK0451,R035,S033,common,Data-инженер,Hadoop
+RK0452,R035,S027,common,Data-инженер,ClickHouse
+RK0453,R035,S023,common,Data-инженер,PostgreSQL
+RK0454,R035,S065,common,Data-инженер,Docker
+RK0455,R035,S064,common,Data-инженер,Git
+RK0456,R035,S066,common,Data-инженер,Kubernetes
+RK0457,R035,S017,common,Data-инженер,Scala
+RK0458,R035,S002,common,Data-инженер,Java
+RK0459,R035,S068,common,Data-инженер,Linux
+RK0460,R036,S022,core,Администратор баз данных,SQL
+RK0461,R036,S023,core,Администратор баз данных,PostgreSQL
+RK0462,R036,S068,core,Администратор баз данных,Linux
+RK0463,R036,S026,common,Администратор баз данных,Oracle Database
+RK0464,R036,S025,common,Администратор баз данных,MS SQL Server
+RK0465,R036,S024,common,Администратор баз данных,MySQL
+RK0466,R036,S065,common,Администратор баз данных,Docker
+RK0467,R036,S073,common,Администратор баз данных,Prometheus/Grafana
+RK0468,R036,S027,common,Администратор баз данных,ClickHouse
+RK0469,R036,S001,common,Администратор баз данных,Python
+RK0470,R037,S113,core,Системный аналитик,Сбор и анализ требований
+RK0471,R037,S111,core,Системный аналитик,UML
+RK0472,R037,S110,core,Системный аналитик,BPMN
+RK0473,R037,S022,core,Системный аналитик,SQL
+RK0474,R037,S055,core,Системный аналитик,REST API
+RK0475,R037,S061,core,Системный аналитик,JSON/XML
+RK0476,R037,S062,core,Системный аналитик,Интеграция систем
+RK0477,R037,S114,core,Системный аналитик,Техническое задание
+RK0478,R037,S063,core,Системный аналитик,OpenAPI/Swagger
+RK0479,R037,S059,common,Системный аналитик,Микросервисы
+RK0480,R037,S058,common,Системный аналитик,SOAP
+RK0481,R037,S031,common,Системный аналитик,Kafka
+RK0482,R037,S032,common,Системный аналитик,RabbitMQ
+RK0483,R037,S112,common,Системный аналитик,ER-моделирование
+RK0484,R037,S115,common,Системный аналитик,Прототипирование
+RK0485,R037,S093,common,Системный аналитик,Jira
+RK0486,R037,S094,common,Системный аналитик,Confluence
+RK0487,R037,S118,common,Системный аналитик,Postman
+RK0488,R037,S120,common,Системный аналитик,Scrum
+RK0489,R037,S121,common,Системный аналитик,Agile
+RK0490,R037,S136,common,Системный аналитик,Документация
+RK0491,R038,S113,core,Бизнес-аналитик,Сбор и анализ требований
+RK0492,R038,S110,core,Бизнес-аналитик,BPMN
+RK0493,R038,S114,core,Бизнес-аналитик,Техническое задание
+RK0494,R038,S093,core,Бизнес-аналитик,Jira
+RK0495,R038,S094,core,Бизнес-аналитик,Confluence
+RK0496,R038,S130,core,Бизнес-аналитик,Работа со стейкхолдерами
+RK0497,R038,S111,common,Бизнес-аналитик,UML
+RK0498,R038,S022,common,Бизнес-аналитик,SQL
+RK0499,R038,S115,common,Бизнес-аналитик,Прототипирование
+RK0500,R038,S120,common,Бизнес-аналитик,Scrum
+RK0501,R038,S121,common,Бизнес-аналитик,Agile
+RK0502,R038,S107,common,Бизнес-аналитик,Excel
+RK0503,R038,S131,common,Бизнес-аналитик,Внедрение ПО
+RK0504,R038,S127,common,Бизнес-аналитик,Планирование
+RK0505,R038,S125,common,Бизнес-аналитик,Управление рисками
+RK0506,R038,S116,common,Бизнес-аналитик,Figma
+RK0507,R039,S019,core,Аналитик 1С,1С:Предприятие
+RK0508,R039,S020,core,Аналитик 1С,1С:ERP
+RK0509,R039,S113,core,Аналитик 1С,Сбор и анализ требований
+RK0510,R039,S114,core,Аналитик 1С,Техническое задание
+RK0511,R039,S110,core,Аналитик 1С,BPMN
+RK0512,R039,S022,common,Аналитик 1С,SQL
+RK0513,R039,S062,common,Аналитик 1С,Интеграция систем
+RK0514,R039,S131,common,Аналитик 1С,Внедрение ПО
+RK0515,R039,S093,common,Аналитик 1С,Jira
+RK0516,R039,S094,common,Аналитик 1С,Confluence
+RK0517,R039,S130,common,Аналитик 1С,Работа со стейкхолдерами
+RK0518,R040,S140,core,Руководитель проектов,Управление проектами
+RK0519,R040,S127,core,Руководитель проектов,Планирование
+RK0520,R040,S125,core,Руководитель проектов,Управление рисками
+RK0521,R040,S126,core,Руководитель проектов,Управление бюджетом проекта
+RK0522,R040,S130,core,Руководитель проектов,Работа со стейкхолдерами
+RK0523,R040,S129,core,Руководитель проектов,Управление командой
+RK0524,R040,S121,core,Руководитель проектов,Agile
+RK0525,R040,S120,core,Руководитель проектов,Scrum
+RK0526,R040,S124,core,Руководитель проектов,PMBOK
+RK0527,R040,S133,core,Руководитель проектов,KPI/метрики проекта
+RK0528,R040,S093,core,Руководитель проектов,Jira
+RK0529,R040,S122,common,Руководитель проектов,Kanban
+RK0530,R040,S123,common,Руководитель проектов,Waterfall
+RK0531,R040,S128,common,Руководитель проектов,MS Project
+RK0532,R040,S094,common,Руководитель проектов,Confluence
+RK0533,R040,S131,common,Руководитель проектов,Внедрение ПО
+RK0534,R040,S132,common,Руководитель проектов,Управление портфелем/программой
+RK0535,R040,S113,common,Руководитель проектов,Сбор и анализ требований
+RK0536,R040,S134,common,Руководитель проектов,ITIL
+RK0537,R040,S137,common,Руководитель проектов,Английский язык
+RK0538,R040,S022,common,Руководитель проектов,SQL
+RK0539,R041,S132,core,Администратор проектов / PMO,Управление портфелем/программой
+RK0540,R041,S133,core,Администратор проектов / PMO,KPI/метрики проекта
+RK0541,R041,S127,core,Администратор проектов / PMO,Планирование
+RK0542,R041,S128,core,Администратор проектов / PMO,MS Project
+RK0543,R041,S093,core,Администратор проектов / PMO,Jira
+RK0544,R041,S107,core,Администратор проектов / PMO,Excel
+RK0545,R041,S125,common,Администратор проектов / PMO,Управление рисками
+RK0546,R041,S126,common,Администратор проектов / PMO,Управление бюджетом проекта
+RK0547,R041,S124,common,Администратор проектов / PMO,PMBOK
+RK0548,R041,S094,common,Администратор проектов / PMO,Confluence
+RK0549,R041,S121,common,Администратор проектов / PMO,Agile
+RK0550,R041,S130,common,Администратор проектов / PMO,Работа со стейкхолдерами
+RK0551,R042,S120,core,Scrum-мастер,Scrum
+RK0552,R042,S121,core,Scrum-мастер,Agile
+RK0553,R042,S122,core,Scrum-мастер,Kanban
+RK0554,R042,S093,core,Scrum-мастер,Jira
+RK0555,R042,S129,core,Scrum-мастер,Управление командой
+RK0556,R042,S094,common,Scrum-мастер,Confluence
+RK0557,R042,S133,common,Scrum-мастер,KPI/метрики проекта
+RK0558,R042,S130,common,Scrum-мастер,Работа со стейкхолдерами
+RK0559,R042,S127,common,Scrum-мастер,Планирование
+RK0560,R042,S125,common,Scrum-мастер,Управление рисками
+RK0561,R042,S137,common,Scrum-мастер,Английский язык
+RK0562,R043,S135,core,Менеджер продукта,Product Management
+RK0563,R043,S130,core,Менеджер продукта,Работа со стейкхолдерами
+RK0564,R043,S108,core,Менеджер продукта,Google Analytics
+RK0565,R043,S119,core,Менеджер продукта,Анализ данных
+RK0566,R043,S121,core,Менеджер продукта,Agile
+RK0567,R043,S120,common,Менеджер продукта,Scrum
+RK0568,R043,S122,common,Менеджер продукта,Kanban
+RK0569,R043,S093,common,Менеджер продукта,Jira
+RK0570,R043,S094,common,Менеджер продукта,Confluence
+RK0571,R043,S022,common,Менеджер продукта,SQL
+RK0572,R043,S117,common,Менеджер продукта,UX-исследования
+RK0573,R043,S116,common,Менеджер продукта,Figma
+RK0574,R043,S115,common,Менеджер продукта,Прототипирование
+RK0575,R043,S133,common,Менеджер продукта,KPI/метрики проекта
+RK0576,R043,S129,common,Менеджер продукта,Управление командой
+RK0577,R044,S129,core,Технический лидер (Tech Lead),Управление командой
+RK0578,R044,S064,core,Технический лидер (Tech Lead),Git
+RK0579,R044,S067,core,Технический лидер (Tech Lead),CI/CD
+RK0580,R044,S059,core,Технический лидер (Tech Lead),Микросервисы
+RK0581,R044,S060,core,Технический лидер (Tech Lead),ООП
+RK0582,R044,S121,core,Технический лидер (Tech Lead),Agile
+RK0583,R044,S065,common,Технический лидер (Tech Lead),Docker
+RK0584,R044,S066,common,Технический лидер (Tech Lead),Kubernetes
+RK0585,R044,S031,common,Технический лидер (Tech Lead),Kafka
+RK0586,R044,S023,common,Технический лидер (Tech Lead),PostgreSQL
+RK0587,R044,S120,common,Технический лидер (Tech Lead),Scrum
+RK0588,R044,S093,common,Технический лидер (Tech Lead),Jira
+RK0589,R044,S127,common,Технический лидер (Tech Lead),Планирование
+RK0590,R044,S113,common,Технический лидер (Tech Lead),Сбор и анализ требований
+RK0591,R045,S129,core,Руководитель группы разработки,Управление командой
+RK0592,R045,S121,core,Руководитель группы разработки,Agile
+RK0593,R045,S120,core,Руководитель группы разработки,Scrum
+RK0594,R045,S127,core,Руководитель группы разработки,Планирование
+RK0595,R045,S093,core,Руководитель группы разработки,Jira
+RK0596,R045,S064,core,Руководитель группы разработки,Git
+RK0597,R045,S122,common,Руководитель группы разработки,Kanban
+RK0598,R045,S067,common,Руководитель группы разработки,CI/CD
+RK0599,R045,S125,common,Руководитель группы разработки,Управление рисками
+RK0600,R045,S130,common,Руководитель группы разработки,Работа со стейкхолдерами
+RK0601,R045,S133,common,Руководитель группы разработки,KPI/метрики проекта
+RK0602,R045,S059,common,Руководитель группы разработки,Микросервисы
+RK0603,R045,S126,common,Руководитель группы разработки,Управление бюджетом проекта
+RK0604,R046,S059,core,Архитектор ПО,Микросервисы
+RK0605,R046,S060,core,Архитектор ПО,ООП
+RK0606,R046,S111,core,Архитектор ПО,UML
+RK0607,R046,S055,core,Архитектор ПО,REST API
+RK0608,R046,S062,core,Архитектор ПО,Интеграция систем
+RK0609,R046,S065,core,Архитектор ПО,Docker
+RK0610,R046,S066,core,Архитектор ПО,Kubernetes
+RK0611,R046,S022,core,Архитектор ПО,SQL
+RK0612,R046,S031,common,Архитектор ПО,Kafka
+RK0613,R046,S057,common,Архитектор ПО,gRPC
+RK0614,R046,S074,common,Архитектор ПО,AWS
+RK0615,R046,S075,common,Архитектор ПО,Яндекс.Облако
+RK0616,R046,S023,common,Архитектор ПО,PostgreSQL
+RK0617,R046,S130,common,Архитектор ПО,Работа со стейкхолдерами
+RK0618,R046,S114,common,Архитектор ПО,Техническое задание
+RK0619,R046,S067,common,Архитектор ПО,CI/CD
+RK0620,R047,S129,core,Технический директор (CTO),Управление командой
+RK0621,R047,S126,core,Технический директор (CTO),Управление бюджетом проекта
+RK0622,R047,S059,core,Технический директор (CTO),Микросервисы
+RK0623,R047,S132,core,Технический директор (CTO),Управление портфелем/программой
+RK0624,R047,S130,core,Технический директор (CTO),Работа со стейкхолдерами
+RK0625,R047,S121,common,Технический директор (CTO),Agile
+RK0626,R047,S120,common,Технический директор (CTO),Scrum
+RK0627,R047,S125,common,Технический директор (CTO),Управление рисками
+RK0628,R047,S083,common,Технический директор (CTO),Информационная безопасность
+RK0629,R047,S074,common,Технический директор (CTO),AWS
+RK0630,R047,S066,common,Технический директор (CTO),Kubernetes
+RK0631,R047,S127,common,Технический директор (CTO),Планирование
+RK0632,R047,S133,common,Технический директор (CTO),KPI/метрики проекта
+RK0633,R048,S126,core,Директор по информационным технологиям (CIO),Управление бюджетом проекта
+RK0634,R048,S132,core,Директор по информационным технологиям (CIO),Управление портфелем/программой
+RK0635,R048,S083,core,Директор по информационным технологиям (CIO),Информационная безопасность
+RK0636,R048,S134,core,Директор по информационным технологиям (CIO),ITIL
+RK0637,R048,S130,core,Директор по информационным технологиям (CIO),Работа со стейкхолдерами
+RK0638,R048,S125,core,Директор по информационным технологиям (CIO),Управление рисками
+RK0639,R048,S129,common,Директор по информационным технологиям (CIO),Управление командой
+RK0640,R048,S020,common,Директор по информационным технологиям (CIO),1С:ERP
+RK0641,R048,S127,common,Директор по информационным технологиям (CIO),Планирование
+RK0642,R048,S133,common,Директор по информационным технологиям (CIO),KPI/метрики проекта
+RK0643,R048,S131,common,Директор по информационным технологиям (CIO),Внедрение ПО
+RK0644,R049,S136,core,Технический писатель,Документация
+RK0645,R049,S114,core,Технический писатель,Техническое задание
+RK0646,R049,S055,core,Технический писатель,REST API
+RK0647,R049,S063,core,Технический писатель,OpenAPI/Swagger
+RK0648,R049,S064,core,Технический писатель,Git
+RK0649,R049,S094,core,Технический писатель,Confluence
+RK0650,R049,S111,common,Технический писатель,UML
+RK0651,R049,S093,common,Технический писатель,Jira
+RK0652,R049,S118,common,Технический писатель,Postman
+RK0653,R049,S137,common,Технический писатель,Английский язык
+RK0654,R049,S061,common,Технический писатель,JSON/XML
+RK0655,R049,S065,common,Технический писатель,Docker
+RK0656,R050,S116,core,UI/UX-дизайнер,Figma
+RK0657,R050,S115,core,UI/UX-дизайнер,Прототипирование
+RK0658,R050,S117,core,UI/UX-дизайнер,UX-исследования
+RK0659,R050,S048,common,UI/UX-дизайнер,HTML/CSS
+RK0660,R050,S093,common,UI/UX-дизайнер,Jira
+RK0661,R050,S094,common,UI/UX-дизайнер,Confluence
+RK0662,R050,S113,common,UI/UX-дизайнер,Сбор и анализ требований
+RK0663,R050,S108,common,UI/UX-дизайнер,Google Analytics
+RK0664,R050,S121,common,UI/UX-дизайнер,Agile
+RK0665,R051,S020,core,ERP-консультант,1С:ERP
+RK0666,R051,S021,core,ERP-консультант,SAP
+RK0667,R051,S131,core,ERP-консультант,Внедрение ПО
+RK0668,R051,S113,core,ERP-консультант,Сбор и анализ требований
+RK0669,R051,S110,core,ERP-консультант,BPMN
+RK0670,R051,S114,common,ERP-консультант,Техническое задание
+RK0671,R051,S130,common,ERP-консультант,Работа со стейкхолдерами
+RK0672,R051,S140,common,ERP-консультант,Управление проектами
+RK0673,R051,S022,common,ERP-консультант,SQL
+RK0674,R051,S093,common,ERP-консультант,Jira
+RK0675,R051,S094,common,ERP-консультант,Confluence
+RK0676,R051,S062,common,ERP-консультант,Интеграция систем
+RK0677,R051,S127,common,ERP-консультант,Планирование
+RK0678,R052,S055,core,Интеграционный разработчик,REST API
+RK0679,R052,S058,core,Интеграционный разработчик,SOAP
+RK0680,R052,S061,core,Интеграционный разработчик,JSON/XML
+RK0681,R052,S062,core,Интеграционный разработчик,Интеграция систем
+RK0682,R052,S022,core,Интеграционный разработчик,SQL
+RK0683,R052,S031,common,Интеграционный разработчик,Kafka
+RK0684,R052,S032,common,Интеграционный разработчик,RabbitMQ
+RK0685,R052,S059,common,Интеграционный разработчик,Микросервисы
+RK0686,R052,S063,common,Интеграционный разработчик,OpenAPI/Swagger
+RK0687,R052,S118,common,Интеграционный разработчик,Postman
+RK0688,R052,S002,common,Интеграционный разработчик,Java
+RK0689,R052,S001,common,Интеграционный разработчик,Python
+RK0690,R053,S055,core,Мобильный разработчик,REST API
+RK0691,R053,S064,core,Мобильный разработчик,Git
+RK0692,R053,S060,core,Мобильный разработчик,ООП
+RK0693,R053,S139,core,Мобильный разработчик,Firebase
+RK0694,R053,S012,common,Мобильный разработчик,Swift
+RK0695,R053,S003,common,Мобильный разработчик,Kotlin
+RK0696,R053,S049,common,Мобильный разработчик,Flutter
+RK0697,R053,S050,common,Мобильный разработчик,React Native
+RK0698,R053,S052,common,Мобильный разработчик,iOS SDK
+RK0699,R053,S051,common,Мобильный разработчик,Android SDK
+RK0700,R053,S067,common,Мобильный разработчик,CI/CD
+RK0701,R053,S116,common,Мобильный разработчик,Figma
+RK0702,R053,S137,common,Мобильный разработчик,Английский язык
