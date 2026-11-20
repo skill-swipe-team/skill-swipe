@@ -1,0 +1,965 @@
+﻿synonym_id,skill_id,synonym,lang,skill_name (справочно)
+SS0001,S001,python3,en,Python
+SS0002,S001,Python 3,en,Python
+SS0003,S001,Питон,ru,Python
+SS0004,S001,py,en,Python
+SS0005,S002,Java SE,en,Java
+SS0006,S002,Java 8,en,Java
+SS0007,S002,Java 11,en,Java
+SS0008,S002,Java 17,en,Java
+SS0009,S002,Джава,ru,Java
+SS0010,S002,JDK,en,Java
+SS0011,S003,Котлин,ru,Kotlin
+SS0012,S004,C Sharp,en,C#
+SS0013,S004,С#,ru,C#
+SS0014,S004,си шарп,ru,C#
+SS0015,S004,CSharp,en,C#
+SS0016,S005,.NET Core,en,.NET
+SS0017,S005,.NET Framework,en,.NET
+SS0018,S005,dotnet,en,.NET
+SS0019,S005,ASP.NET,en,.NET
+SS0020,S005,ASP.NET Core,en,.NET
+SS0021,S005,.NET 6,en,.NET
+SS0022,S005,.NET 8,en,.NET
+SS0023,S005,NET,en,.NET
+SS0024,S006,PHP 7,en,PHP
+SS0025,S006,PHP 8,en,PHP
+SS0026,S006,ПХП,ru,PHP
+SS0027,S007,Golang,en,Go
+SS0028,S007,Го,ru,Go
+SS0029,S007,Go lang,en,Go
+SS0030,S008,JS,en,JavaScript
+SS0031,S008,ECMAScript,en,JavaScript
+SS0032,S008,ES6,en,JavaScript
+SS0033,S008,Джаваскрипт,ru,JavaScript
+SS0034,S009,TS,en,TypeScript
+SS0035,S009,Тайпскрипт,ru,TypeScript
+SS0036,S010,CPP,en,C++
+SS0037,S010,С++,ru,C++
+SS0038,S010,C/C++,en,C++
+SS0039,S010,Си плюс плюс,ru,C++
+SS0040,S011,Си,ru,C
+SS0041,S011,C language,en,C
+SS0042,S012,Свифт,ru,Swift
+SS0043,S012,Swift 5,en,Swift
+SS0044,S013,ObjC,en,Objective-C
+SS0045,S013,Obj-C,en,Objective-C
+SS0046,S014,Дарт,ru,Dart
+SS0047,S015,Ruby on Rails,en,Ruby
+SS0048,S015,RoR,en,Ruby
+SS0049,S015,Руби,ru,Ruby
+SS0050,S016,Раст,ru,Rust
+SS0051,S017,Скала,ru,Scala
+SS0052,S018,R language,en,R
+SS0053,S018,Язык R,ru,R
+SS0054,S019,1С,ru,1С:Предприятие
+SS0055,S019,1C,en,1С:Предприятие
+SS0056,S019,1С 8,ru,1С:Предприятие
+SS0057,S019,1С:Предприятие 8.3,ru,1С:Предприятие
+SS0058,S019,1С 8.3,ru,1С:Предприятие
+SS0059,S019,1C:Enterprise,en,1С:Предприятие
+SS0060,S019,1С:Предприятие 8,ru,1С:Предприятие
+SS0061,S019,Платформа 1С,ru,1С:Предприятие
+SS0062,S020,1С ERP,ru,1С:ERP
+SS0063,S020,1C:ERP,en,1С:ERP
+SS0064,S020,1С:ERP Управление предприятием,ru,1С:ERP
+SS0065,S020,ERP 2.5,en,1С:ERP
+SS0066,S020,1С УТ,ru,1С:ERP
+SS0067,S020,1С:Управление торговлей,ru,1С:ERP
+SS0068,S020,1С:УТ,ru,1С:ERP
+SS0069,S020,1С:Бухгалтерия,ru,1С:ERP
+SS0070,S020,1С БП,ru,1С:ERP
+SS0071,S020,1С ЗУП,ru,1С:ERP
+SS0072,S020,1С:ЗУП,ru,1С:ERP
+SS0073,S021,SAP ERP,en,SAP
+SS0074,S021,SAP S/4HANA,en,SAP
+SS0075,S021,SAP ABAP,en,SAP
+SS0076,S021,ABAP,en,SAP
+SS0077,S021,SAP FI/CO,en,SAP
+SS0078,S021,SAP MM,en,SAP
+SS0079,S022,Structured Query Language,en,SQL
+SS0080,S022,Язык SQL,ru,SQL
+SS0081,S022,T-SQL,en,SQL
+SS0082,S022,PL/SQL,en,SQL
+SS0083,S022,SQL запросы,ru,SQL
+SS0084,S022,Написание SQL-запросов,ru,SQL
+SS0085,S023,Postgres,en,PostgreSQL
+SS0086,S023,PG,en,PostgreSQL
+SS0087,S023,Постгрес,ru,PostgreSQL
+SS0088,S023,Postgre SQL,en,PostgreSQL
+SS0089,S024,MariaDB,en,MySQL
+SS0090,S024,Мускуль,ru,MySQL
+SS0091,S025,MSSQL,en,MS SQL Server
+SS0092,S025,Microsoft SQL Server,en,MS SQL Server
+SS0093,S025,SQL Server,en,MS SQL Server
+SS0094,S025,T-SQL MSSQL,en,MS SQL Server
+SS0095,S026,Oracle,en,Oracle Database
+SS0096,S026,Oracle DB,en,Oracle Database
+SS0097,S026,Oracle PL/SQL,en,Oracle Database
+SS0098,S027,CH,en,ClickHouse
+SS0099,S027,Кликхаус,ru,ClickHouse
+SS0100,S028,Mongo,en,MongoDB
+SS0101,S028,NoSQL Mongo,en,MongoDB
+SS0102,S029,Редис,ru,Redis
+SS0103,S029,Redis Cache,en,Redis
+SS0104,S030,ES,en,Elasticsearch
+SS0105,S030,Elastic,en,Elasticsearch
+SS0106,S030,ELK,en,Elasticsearch
+SS0107,S030,Elastic Stack,en,Elasticsearch
+SS0108,S030,OpenSearch,en,Elasticsearch
+SS0109,S031,Apache Kafka,en,Kafka
+SS0110,S031,Кафка,ru,Kafka
+SS0111,S032,Rabbit MQ,en,RabbitMQ
+SS0112,S032,AMQP,en,RabbitMQ
+SS0113,S032,Кролик,ru,RabbitMQ
+SS0114,S033,Apache Hadoop,en,Hadoop
+SS0115,S033,HDFS,en,Hadoop
+SS0116,S033,Hive,en,Hadoop
+SS0117,S033,MapReduce,en,Hadoop
+SS0118,S034,Apache Spark,en,Spark
+SS0119,S034,PySpark,en,Spark
+SS0120,S034,Spark SQL,en,Spark
+SS0121,S035,Apache Airflow,en,Airflow
+SS0122,S035,Эйрфлоу,ru,Airflow
+SS0123,S036,ELT,en,ETL
+SS0124,S036,ETL/ELT,en,ETL
+SS0125,S036,Data pipelines,en,ETL
+SS0126,S036,Пайплайны данных,ru,ETL
+SS0127,S036,Data Integration,en,ETL
+SS0128,S037,Data Warehouse,en,DWH
+SS0129,S037,Хранилище данных,ru,DWH
+SS0130,S037,КХД,ru,DWH
+SS0131,S037,Корпоративное хранилище данных,ru,DWH
+SS0132,S037,Data Lake,en,DWH
+SS0133,S037,Data Vault,en,DWH
+SS0134,S038,Spring Boot,en,Spring
+SS0135,S038,Spring Framework,en,Spring
+SS0136,S038,Spring MVC,en,Spring
+SS0137,S038,Spring Cloud,en,Spring
+SS0138,S038,Спринг,ru,Spring
+SS0139,S039,Django REST Framework,en,Django
+SS0140,S039,DRF,en,Django
+SS0141,S039,Джанго,ru,Django
+SS0142,S040,Fast API,en,FastAPI
+SS0143,S041,Фласк,ru,Flask
+SS0144,S042,Ларавель,ru,Laravel
+SS0145,S043,Симфони,ru,Symfony
+SS0146,S044,NodeJS,en,Node.js
+SS0147,S044,Node,en,Node.js
+SS0148,S044,Нода,ru,Node.js
+SS0149,S044,Express,en,Node.js
+SS0150,S044,Express.js,en,Node.js
+SS0151,S044,NestJS,en,Node.js
+SS0152,S044,Nest.js,en,Node.js
+SS0153,S045,React.js,en,React
+SS0154,S045,ReactJS,en,React
+SS0155,S045,Реакт,ru,React
+SS0156,S045,React JS,en,React
+SS0157,S045,Redux,en,React
+SS0158,S045,Next.js,en,React
+SS0159,S045,NextJS,en,React
+SS0160,S046,Vue,en,Vue.js
+SS0161,S046,VueJS,en,Vue.js
+SS0162,S046,Vue 3,en,Vue.js
+SS0163,S046,Vuex,en,Vue.js
+SS0164,S046,Pinia,en,Vue.js
+SS0165,S046,Nuxt,en,Vue.js
+SS0166,S046,Nuxt.js,en,Vue.js
+SS0167,S047,AngularJS,en,Angular
+SS0168,S047,Angular 2+,en,Angular
+SS0169,S047,Ангуляр,ru,Angular
+SS0170,S047,RxJS,en,Angular
+SS0171,S048,HTML,en,HTML/CSS
+SS0172,S048,CSS,en,HTML/CSS
+SS0173,S048,HTML5,en,HTML/CSS
+SS0174,S048,CSS3,en,HTML/CSS
+SS0175,S048,HTML5/CSS3,en,HTML/CSS
+SS0176,S048,Верстка,ru,HTML/CSS
+SS0177,S048,Адаптивная верстка,ru,HTML/CSS
+SS0178,S048,SASS,en,HTML/CSS
+SS0179,S048,SCSS,en,HTML/CSS
+SS0180,S048,LESS,en,HTML/CSS
+SS0181,S048,Bootstrap,en,HTML/CSS
+SS0182,S048,Tailwind,en,HTML/CSS
+SS0183,S048,БЭМ,ru,HTML/CSS
+SS0184,S048,Cross-browser,en,HTML/CSS
+SS0185,S049,Флаттер,ru,Flutter
+SS0186,S049,Flutter SDK,en,Flutter
+SS0187,S050,RN,en,React Native
+SS0188,S050,ReactNative,en,React Native
+SS0189,S051,Android,en,Android SDK
+SS0190,S051,Jetpack Compose,en,Android SDK
+SS0191,S051,Android Studio,en,Android SDK
+SS0192,S051,Андроид,ru,Android SDK
+SS0193,S052,iOS,en,iOS SDK
+SS0194,S052,SwiftUI,en,iOS SDK
+SS0195,S052,UIKit,en,iOS SDK
+SS0196,S052,Xcode,en,iOS SDK
+SS0197,S052,Cocoa Touch,en,iOS SDK
+SS0198,S053,Unity3D,en,Unity
+SS0199,S053,Unity 3D,en,Unity
+SS0200,S053,Юнити,ru,Unity
+SS0201,S054,UE4,en,Unreal Engine
+SS0202,S054,UE5,en,Unreal Engine
+SS0203,S054,Unreal,en,Unreal Engine
+SS0204,S054,Unreal Engine 5,en,Unreal Engine
+SS0205,S055,REST,en,REST API
+SS0206,S055,RESTful,en,REST API
+SS0207,S055,RESTful API,en,REST API
+SS0208,S055,HTTP API,en,REST API
+SS0209,S055,REST-интеграции,ru,REST API
+SS0210,S056,Graph QL,en,GraphQL
+SS0211,S056,Apollo,en,GraphQL
+SS0212,S057,Protobuf,en,gRPC
+SS0213,S057,Protocol Buffers,en,gRPC
+SS0214,S058,SOAP API,en,SOAP
+SS0215,S058,WSDL,en,SOAP
+SS0216,S058,XML-RPC,en,SOAP
+SS0217,S059,Microservices,en,Микросервисы
+SS0218,S059,Микросервисная архитектура,ru,Микросервисы
+SS0219,S059,Microservice architecture,en,Микросервисы
+SS0220,S059,SOA,en,Микросервисы
+SS0221,S060,OOP,en,ООП
+SS0222,S060,Объектно-ориентированное программирование,ru,ООП
+SS0223,S060,SOLID,en,ООП
+SS0224,S060,Паттерны проектирования,ru,ООП
+SS0225,S060,Design Patterns,en,ООП
+SS0226,S060,DDD,en,ООП
+SS0227,S061,JSON,en,JSON/XML
+SS0228,S061,XML,en,JSON/XML
+SS0229,S061,XSD,en,JSON/XML
+SS0230,S061,Парсинг JSON,ru,JSON/XML
+SS0231,S061,Работа с JSON/XML,ru,JSON/XML
+SS0232,S062,Интеграции,ru,Интеграция систем
+SS0233,S062,Enterprise Integration,en,Интеграция систем
+SS0234,S062,EAI,en,Интеграция систем
+SS0235,S062,ESB,en,Интеграция систем
+SS0236,S062,Системная интеграция,ru,Интеграция систем
+SS0237,S062,Интеграционные решения,ru,Интеграция систем
+SS0238,S062,Интеграция сервисов,ru,Интеграция систем
+SS0239,S063,Swagger,en,OpenAPI/Swagger
+SS0240,S063,OpenAPI,en,OpenAPI/Swagger
+SS0241,S063,OAS,en,OpenAPI/Swagger
+SS0242,S063,Postman Collections,en,OpenAPI/Swagger
+SS0243,S063,Swagger UI,en,OpenAPI/Swagger
+SS0244,S064,GitHub,en,Git
+SS0245,S064,GitLab,en,Git
+SS0246,S064,Bitbucket,en,Git
+SS0247,S064,Система контроля версий,ru,Git
+SS0248,S064,VCS,en,Git
+SS0249,S064,SVN,en,Git
+SS0250,S064,Гит,ru,Git
+SS0251,S064,Git Flow,en,Git
+SS0252,S065,Docker Compose,en,Docker
+SS0253,S065,Докер,ru,Docker
+SS0254,S065,Контейнеризация,ru,Docker
+SS0255,S065,Containers,en,Docker
+SS0256,S065,Dockerfile,en,Docker
+SS0257,S066,K8s,en,Kubernetes
+SS0258,S066,Кубернетес,ru,Kubernetes
+SS0259,S066,Кубер,ru,Kubernetes
+SS0260,S066,Helm,en,Kubernetes
+SS0261,S066,OpenShift,en,Kubernetes
+SS0262,S066,Rancher,en,Kubernetes
+SS0263,S067,CI,en,CI/CD
+SS0264,S067,CD,en,CI/CD
+SS0265,S067,Continuous Integration,en,CI/CD
+SS0266,S067,Continuous Delivery,en,CI/CD
+SS0267,S067,Jenkins,en,CI/CD
+SS0268,S067,GitLab CI,en,CI/CD
+SS0269,S067,GitHub Actions,en,CI/CD
+SS0270,S067,TeamCity,en,CI/CD
+SS0271,S067,Bamboo,en,CI/CD
+SS0272,S067,Непрерывная интеграция,ru,CI/CD
+SS0273,S068,Unix,en,Linux
+SS0274,S068,Ubuntu,en,Linux
+SS0275,S068,CentOS,en,Linux
+SS0276,S068,Debian,en,Linux
+SS0277,S068,Red Hat,en,Linux
+SS0278,S068,RHEL,en,Linux
+SS0279,S068,Astra Linux,en,Linux
+SS0280,S068,Linux/Unix,en,Linux
+SS0281,S068,Bash,en,Linux
+SS0282,S068,Shell,en,Linux
+SS0283,S068,Shell scripting,en,Linux
+SS0284,S068,Bash-скрипты,ru,Linux
+SS0285,S069,Windows,en,Windows Server
+SS0286,S069,Active Directory,en,Windows Server
+SS0287,S069,AD,en,Windows Server
+SS0288,S069,Windows Server 2019,en,Windows Server
+SS0289,S069,GPO,en,Windows Server
+SS0290,S069,Групповые политики,ru,Windows Server
+SS0291,S069,Exchange,en,Windows Server
+SS0292,S069,MS Exchange,en,Windows Server
+SS0293,S070,Ансибл,ru,Ansible
+SS0294,S070,Ansible playbooks,en,Ansible
+SS0295,S071,Терраформ,ru,Terraform
+SS0296,S071,IaC,en,Terraform
+SS0297,S071,Infrastructure as Code,en,Terraform
+SS0298,S071,Pulumi,en,Terraform
+SS0299,S072,Нжинкс,ru,Nginx
+SS0300,S072,HAProxy,en,Nginx
+SS0301,S072,Apache HTTP Server,en,Nginx
+SS0302,S073,Prometheus,en,Prometheus/Grafana
+SS0303,S073,Grafana,en,Prometheus/Grafana
+SS0304,S073,Мониторинг,ru,Prometheus/Grafana
+SS0305,S073,Zabbix,en,Prometheus/Grafana
+SS0306,S073,Zabbix мониторинг,ru,Prometheus/Grafana
+SS0307,S073,ELK мониторинг,ru,Prometheus/Grafana
+SS0308,S073,Alertmanager,en,Prometheus/Grafana
+SS0309,S073,Observability,en,Prometheus/Grafana
+SS0310,S073,Наблюдаемость,ru,Prometheus/Grafana
+SS0311,S073,Loki,en,Prometheus/Grafana
+SS0312,S074,Amazon Web Services,en,AWS
+SS0313,S074,Amazon AWS,en,AWS
+SS0314,S074,EC2,en,AWS
+SS0315,S074,S3,en,AWS
+SS0316,S074,AWS Lambda,en,AWS
+SS0317,S075,Yandex Cloud,en,Яндекс.Облако
+SS0318,S075,Yandex.Cloud,en,Яндекс.Облако
+SS0319,S075,YC,en,Яндекс.Облако
+SS0320,S075,Облачные платформы Яндекса,ru,Яндекс.Облако
+SS0321,S076,Mail.ru Cloud Solutions,en,VK Cloud
+SS0322,S076,MCS,en,VK Cloud
+SS0323,S076,VK Cloud Solutions,en,VK Cloud
+SS0324,S076,Mail.ru Cloud,en,VK Cloud
+SS0325,S077,Microsoft Azure,en,Azure
+SS0326,S077,Azure DevOps,en,Azure
+SS0327,S077,Azure Cloud,en,Azure
+SS0328,S078,VMware,en,Виртуализация
+SS0329,S078,VMware vSphere,en,Виртуализация
+SS0330,S078,vSphere,en,Виртуализация
+SS0331,S078,Hyper-V,en,Виртуализация
+SS0332,S078,KVM,en,Виртуализация
+SS0333,S078,Proxmox,en,Виртуализация
+SS0334,S078,Virtualization,en,Виртуализация
+SS0335,S078,ESXi,en,Виртуализация
+SS0336,S078,Docker/VM,en,Виртуализация
+SS0337,S079,TCP/IP,en,Сети (TCP/IP)
+SS0338,S079,Сетевые протоколы,ru,Сети (TCP/IP)
+SS0339,S079,DNS,en,Сети (TCP/IP)
+SS0340,S079,DHCP,en,Сети (TCP/IP)
+SS0341,S079,VPN,en,Сети (TCP/IP)
+SS0342,S079,OSI,en,Сети (TCP/IP)
+SS0343,S079,Маршрутизация,ru,Сети (TCP/IP)
+SS0344,S079,Routing,en,Сети (TCP/IP)
+SS0345,S079,BGP,en,Сети (TCP/IP)
+SS0346,S079,OSPF,en,Сети (TCP/IP)
+SS0347,S079,VLAN,en,Сети (TCP/IP)
+SS0348,S079,LAN/WAN,en,Сети (TCP/IP)
+SS0349,S080,Cisco IOS,en,Cisco
+SS0350,S080,CCNA,en,Cisco
+SS0351,S080,CCNP,en,Cisco
+SS0352,S080,Cisco Nexus,en,Cisco
+SS0353,S080,Маршрутизаторы Cisco,ru,Cisco
+SS0354,S081,RouterOS,en,Mikrotik
+SS0355,S081,Микротик,ru,Mikrotik
+SS0356,S082,Межсетевой экран,ru,Firewall
+SS0357,S082,NGFW,en,Firewall
+SS0358,S082,Fortinet,en,Firewall
+SS0359,S082,FortiGate,en,Firewall
+SS0360,S082,Check Point,en,Firewall
+SS0361,S082,Palo Alto,en,Firewall
+SS0362,S082,Файрвол,ru,Firewall
+SS0363,S082,UserGate,en,Firewall
+SS0364,S082,Ideco,en,Firewall
+SS0365,S083,ИБ,ru,Информационная безопасность
+SS0366,S083,InfoSec,en,Информационная безопасность
+SS0367,S083,Cyber Security,en,Информационная безопасность
+SS0368,S083,Кибербезопасность,ru,Информационная безопасность
+SS0369,S083,Защита информации,ru,Информационная безопасность
+SS0370,S083,ISO 27001,en,Информационная безопасность
+SS0371,S083,Information Security,en,Информационная безопасность
+SS0372,S084,Penetration Testing,en,Пентест
+SS0373,S084,Pentest,en,Пентест
+SS0374,S084,Тестирование на проникновение,ru,Пентест
+SS0375,S084,OWASP,en,Пентест
+SS0376,S084,Red Team,en,Пентест
+SS0377,S084,Bug Bounty,en,Пентест
+SS0378,S084,Kali Linux,en,Пентест
+SS0379,S085,SIEM,en,SIEM/SOC
+SS0380,S085,SOC,en,SIEM/SOC
+SS0381,S085,Splunk,en,SIEM/SOC
+SS0382,S085,MaxPatrol SIEM,en,SIEM/SOC
+SS0383,S085,QRadar,en,SIEM/SOC
+SS0384,S085,KUMA,en,SIEM/SOC
+SS0385,S085,Мониторинг ИБ,ru,SIEM/SOC
+SS0386,S085,Расследование инцидентов,ru,SIEM/SOC
+SS0387,S085,Incident Response,en,SIEM/SOC
+SS0388,S085,IRP,en,SIEM/SOC
+SS0389,S085,Threat Hunting,en,SIEM/SOC
+SS0390,S086,Криптография,ru,Криптография/PKI
+SS0391,S086,PKI,en,Криптография/PKI
+SS0392,S086,КриптоПро,ru,Криптография/PKI
+SS0393,S086,ГОСТ,ru,Криптография/PKI
+SS0394,S086,ЭЦП,ru,Криптография/PKI
+SS0395,S086,Сертификаты X.509,ru,Криптография/PKI
+SS0396,S086,TLS/SSL,en,Криптография/PKI
+SS0397,S086,SSL,en,Криптография/PKI
+SS0398,S087,152-ФЗ,ru,Регуляторика ИБ
+SS0399,S087,187-ФЗ,ru,Регуляторика ИБ
+SS0400,S087,КИИ,ru,Регуляторика ИБ
+SS0401,S087,ФСТЭК,ru,Регуляторика ИБ
+SS0402,S087,ФСБ,ru,Регуляторика ИБ
+SS0403,S087,Персональные данные,ru,Регуляторика ИБ
+SS0404,S087,GDPR,en,Регуляторика ИБ
+SS0405,S087,PCI DSS,en,Регуляторика ИБ
+SS0406,S087,Приказ 21 ФСТЭК,ru,Регуляторика ИБ
+SS0407,S087,ГОСТ Р 57580,ru,Регуляторика ИБ
+SS0408,S088,Manual Testing,en,Ручное тестирование
+SS0409,S088,Функциональное тестирование,ru,Ручное тестирование
+SS0410,S088,Мануальное тестирование,ru,Ручное тестирование
+SS0411,S088,Regression Testing,en,Ручное тестирование
+SS0412,S088,Регрессионное тестирование,ru,Ручное тестирование
+SS0413,S088,Smoke,en,Ручное тестирование
+SS0414,S088,Exploratory testing,en,Ручное тестирование
+SS0415,S088,Тестирование веб-приложений,ru,Ручное тестирование
+SS0416,S088,Mobile Testing,en,Ручное тестирование
+SS0417,S089,Test Automation,en,Автоматизация тестирования
+SS0418,S089,Автотесты,ru,Автоматизация тестирования
+SS0419,S089,Автоматизированное тестирование,ru,Автоматизация тестирования
+SS0420,S089,Selenium,en,Автоматизация тестирования
+SS0421,S089,Selenide,en,Автоматизация тестирования
+SS0422,S089,Playwright,en,Автоматизация тестирования
+SS0423,S089,Cypress,en,Автоматизация тестирования
+SS0424,S089,Appium,en,Автоматизация тестирования
+SS0425,S089,Pytest,en,Автоматизация тестирования
+SS0426,S089,JUnit,en,Автоматизация тестирования
+SS0427,S089,TestNG,en,Автоматизация тестирования
+SS0428,S089,Allure,en,Автоматизация тестирования
+SS0429,S089,Robot Framework,en,Автоматизация тестирования
+SS0430,S089,Page Object,en,Автоматизация тестирования
+SS0431,S089,Rest Assured,en,Автоматизация тестирования
+SS0432,S090,Тест-кейсы,ru,Тест-документация
+SS0433,S090,Test Cases,en,Тест-документация
+SS0434,S090,Чек-листы,ru,Тест-документация
+SS0435,S090,Test Plan,en,Тест-документация
+SS0436,S090,Тест-план,ru,Тест-документация
+SS0437,S090,Тест-дизайн,ru,Тест-документация
+SS0438,S090,Баг-репорты,ru,Тест-документация
+SS0439,S090,Bug Report,en,Тест-документация
+SS0440,S090,Test Design,en,Тест-документация
+SS0441,S090,Тестовая документация,ru,Тест-документация
+SS0442,S090,Bug tracking,en,Тест-документация
+SS0443,S091,Load Testing,en,Нагрузочное тестирование
+SS0444,S091,Performance testing,en,Нагрузочное тестирование
+SS0445,S091,JMeter,en,Нагрузочное тестирование
+SS0446,S091,Gatling,en,Нагрузочное тестирование
+SS0447,S091,Locust,en,Нагрузочное тестирование
+SS0448,S091,Нагрузочное,ru,Нагрузочное тестирование
+SS0449,S091,K6,en,Нагрузочное тестирование
+SS0450,S091,LoadRunner,en,Нагрузочное тестирование
+SS0451,S092,SoapUI,en,API-тестирование
+SS0452,S092,Тестирование API,ru,API-тестирование
+SS0453,S092,API testing,en,API-тестирование
+SS0454,S092,Insomnia,en,API-тестирование
+SS0455,S092,Swagger тестирование,ru,API-тестирование
+SS0456,S093,Atlassian Jira,en,Jira
+SS0457,S093,Jira Software,en,Jira
+SS0458,S093,Jira Service Desk,en,Jira
+SS0459,S093,Atlassian,en,Jira
+SS0460,S093,Джира,ru,Jira
+SS0461,S093,YouTrack,en,Jira
+SS0462,S093,Redmine,en,Jira
+SS0463,S093,Trello,en,Jira
+SS0464,S093,Azure Boards,en,Jira
+SS0465,S094,Атлассиан Confluence,ru,Confluence
+SS0466,S094,Wiki,en,Confluence
+SS0467,S094,Confluence Wiki,en,Confluence
+SS0468,S094,Вики,ru,Confluence
+SS0469,S094,Notion,en,Confluence
+SS0470,S094,Базa знаний,ru,Confluence
+SS0471,S094,База знаний,ru,Confluence
+SS0472,S095,Test Rail,en,TestRail
+SS0473,S095,Allure TestOps,en,TestRail
+SS0474,S095,Zephyr,en,TestRail
+SS0475,S095,TestIT,en,TestRail
+SS0476,S095,Test IT,en,TestRail
+SS0477,S095,Qase,en,TestRail
+SS0478,S095,Xray,en,TestRail
+SS0479,S096,Pandas/NumPy,en,Pandas
+SS0480,S096,NumPy,en,Pandas
+SS0481,S096,SciPy,en,Pandas
+SS0482,S096,Jupyter,en,Pandas
+SS0483,S096,Jupyter Notebook,en,Pandas
+SS0484,S097,Machine Learning,en,Машинное обучение
+SS0485,S097,ML,en,Машинное обучение
+SS0486,S097,Scikit-learn,en,Машинное обучение
+SS0487,S097,sklearn,en,Машинное обучение
+SS0488,S097,CatBoost,en,Машинное обучение
+SS0489,S097,XGBoost,en,Машинное обучение
+SS0490,S097,LightGBM,en,Машинное обучение
+SS0491,S097,Градиентный бустинг,ru,Машинное обучение
+SS0492,S097,Feature Engineering,en,Машинное обучение
+SS0493,S097,Модели ML,ru,Машинное обучение
+SS0494,S097,ML-модели,ru,Машинное обучение
+SS0495,S097,Классические алгоритмы ML,ru,Машинное обучение
+SS0496,S098,Deep Learning,en,Глубокое обучение
+SS0497,S098,DL,en,Глубокое обучение
+SS0498,S098,PyTorch,en,Глубокое обучение
+SS0499,S098,TensorFlow,en,Глубокое обучение
+SS0500,S098,Keras,en,Глубокое обучение
+SS0501,S098,Нейронные сети,ru,Глубокое обучение
+SS0502,S098,CNN,en,Глубокое обучение
+SS0503,S098,RNN,en,Глубокое обучение
+SS0504,S098,Transformers,en,Глубокое обучение
+SS0505,S098,Hugging Face,en,Глубокое обучение
+SS0506,S098,Нейросети,ru,Глубокое обучение
+SS0507,S099,NLP,en,NLP/LLM
+SS0508,S099,Natural Language Processing,en,NLP/LLM
+SS0509,S099,LLM,en,NLP/LLM
+SS0510,S099,Large Language Models,en,NLP/LLM
+SS0511,S099,LangChain,en,NLP/LLM
+SS0512,S099,RAG,en,NLP/LLM
+SS0513,S099,GPT,en,NLP/LLM
+SS0514,S099,Prompt engineering,en,NLP/LLM
+SS0515,S099,Обработка естественного языка,ru,NLP/LLM
+SS0516,S099,Языковые модели,ru,NLP/LLM
+SS0517,S099,Generative AI,en,NLP/LLM
+SS0518,S099,GenAI,en,NLP/LLM
+SS0519,S100,CV,en,Computer Vision
+SS0520,S100,OpenCV,en,Computer Vision
+SS0521,S100,Компьютерное зрение,ru,Computer Vision
+SS0522,S100,Object Detection,en,Computer Vision
+SS0523,S100,YOLO,en,Computer Vision
+SS0524,S100,Image Recognition,en,Computer Vision
+SS0525,S101,ML Ops,en,MLOps
+SS0526,S101,MLflow,en,MLOps
+SS0527,S101,Kubeflow,en,MLOps
+SS0528,S101,DVC,en,MLOps
+SS0529,S101,Model Deployment,en,MLOps
+SS0530,S101,Деплой моделей,ru,MLOps
+SS0531,S101,Feature Store,en,MLOps
+SS0532,S102,A/B тесты,ru,Статистика
+SS0533,S102,A/B тестирование,ru,Статистика
+SS0534,S102,AB-тесты,ru,Статистика
+SS0535,S102,Статистический анализ,ru,Статистика
+SS0536,S102,Статистические методы,ru,Статистика
+SS0537,S102,Математическая статистика,ru,Статистика
+SS0538,S102,Теория вероятностей,ru,Статистика
+SS0539,S102,Проверка гипотез,ru,Статистика
+SS0540,S102,Эконометрика,ru,Статистика
+SS0541,S103,PowerBI,en,Power BI
+SS0542,S103,Microsoft Power BI,en,Power BI
+SS0543,S103,DAX,en,Power BI
+SS0544,S103,Power Query,en,Power BI
+SS0545,S103,Power BI Desktop,en,Power BI
+SS0546,S104,Tableau Desktop,en,Tableau
+SS0547,S104,Табло,ru,Tableau
+SS0548,S105,Yandex DataLens,en,DataLens
+SS0549,S105,Яндекс DataLens,ru,DataLens
+SS0550,S106,Apache Superset,en,Superset
+SS0551,S106,Metabase,en,Superset
+SS0552,S106,Redash,en,Superset
+SS0553,S106,QlikView,en,Superset
+SS0554,S106,Qlik Sense,en,Superset
+SS0555,S106,Qlik,en,Superset
+SS0556,S106,Visiology,en,Superset
+SS0557,S106,Luxms BI,en,Superset
+SS0558,S106,Форсайт,ru,Superset
+SS0559,S107,Microsoft Excel,en,Excel
+SS0560,S107,MS Excel,en,Excel
+SS0561,S107,Эксель,ru,Excel
+SS0562,S107,Google Sheets,en,Excel
+SS0563,S107,Google Таблицы,ru,Excel
+SS0564,S107,VBA,en,Excel
+SS0565,S107,Сводные таблицы,ru,Excel
+SS0566,S107,ВПР,ru,Excel
+SS0567,S107,Формулы Excel,ru,Excel
+SS0568,S107,Продвинутый Excel,ru,Excel
+SS0569,S108,GA4,en,Google Analytics
+SS0570,S108,Google Analytics 4,en,Google Analytics
+SS0571,S108,Yandex Metrica,en,Google Analytics
+SS0572,S108,Яндекс Метрика,ru,Google Analytics
+SS0573,S108,Яндекс.Метрика,ru,Google Analytics
+SS0574,S108,Amplitude,en,Google Analytics
+SS0575,S108,Mixpanel,en,Google Analytics
+SS0576,S108,AppMetrica,en,Google Analytics
+SS0577,S108,Web-аналитика,ru,Google Analytics
+SS0578,S108,Google Tag Manager,en,Google Analytics
+SS0579,S108,GTM,en,Google Analytics
+SS0580,S108,Продуктовая аналитика,ru,Google Analytics
+SS0581,S108,Когортный анализ,ru,Google Analytics
+SS0582,S108,Воронки,ru,Google Analytics
+SS0583,S108,Unit-экономика,ru,Google Analytics
+SS0584,S108,Метрики продукта,ru,Google Analytics
+SS0585,S109,Python для аналитики,ru,Python для анализа данных
+SS0586,S109,Python (pandas),en,Python для анализа данных
+SS0587,S109,Matplotlib,en,Python для анализа данных
+SS0588,S109,Seaborn,en,Python для анализа данных
+SS0589,S109,Plotly,en,Python для анализа данных
+SS0590,S109,Визуализация данных,ru,Python для анализа данных
+SS0591,S109,Data Visualization,en,Python для анализа данных
+SS0592,S110,BPMN 2.0,en,BPMN
+SS0593,S110,Моделирование бизнес-процессов,ru,BPMN
+SS0594,S110,Бизнес-процессы,ru,BPMN
+SS0595,S110,Описание бизнес-процессов,ru,BPMN
+SS0596,S110,Bizagi,en,BPMN
+SS0597,S110,ARIS,en,BPMN
+SS0598,S110,Camunda,en,BPMN
+SS0599,S110,Regulation BPMN,en,BPMN
+SS0600,S110,Оптимизация бизнес-процессов,ru,BPMN
+SS0601,S110,As-Is/To-Be,en,BPMN
+SS0602,S110,AS-IS TO-BE,en,BPMN
+SS0603,S111,Unified Modeling Language,en,UML
+SS0604,S111,Диаграммы UML,ru,UML
+SS0605,S111,Sequence diagram,en,UML
+SS0606,S111,Диаграммы последовательности,ru,UML
+SS0607,S111,Use Case,en,UML
+SS0608,S111,Use Cases,en,UML
+SS0609,S111,Диаграммы классов,ru,UML
+SS0610,S111,Activity diagram,en,UML
+SS0611,S111,Диаграммы активности,ru,UML
+SS0612,S111,Диаграммы состояний,ru,UML
+SS0613,S111,C4 Model,en,UML
+SS0614,S111,ArchiMate,en,UML
+SS0615,S112,ERD,en,ER-моделирование
+SS0616,S112,ER-диаграммы,ru,ER-моделирование
+SS0617,S112,Проектирование БД,ru,ER-моделирование
+SS0618,S112,Проектирование баз данных,ru,ER-моделирование
+SS0619,S112,Моделирование данных,ru,ER-моделирование
+SS0620,S112,Data Modeling,en,ER-моделирование
+SS0621,S112,Нормализация,ru,ER-моделирование
+SS0622,S112,Физическая модель данных,ru,ER-моделирование
+SS0623,S112,Логическая модель данных,ru,ER-моделирование
+SS0624,S112,Data Model,en,ER-моделирование
+SS0625,S113,Requirements Elicitation,en,Сбор и анализ требований
+SS0626,S113,Requirements Analysis,en,Сбор и анализ требований
+SS0627,S113,Требования,ru,Сбор и анализ требований
+SS0628,S113,Business Requirements,en,Сбор и анализ требований
+SS0629,S113,Бизнес-требования,ru,Сбор и анализ требований
+SS0630,S113,Функциональные требования,ru,Сбор и анализ требований
+SS0631,S113,Нефункциональные требования,ru,Сбор и анализ требований
+SS0632,S113,Elicitation,en,Сбор и анализ требований
+SS0633,S113,Интервью с заказчиком,ru,Сбор и анализ требований
+SS0634,S113,Работа с требованиями,ru,Сбор и анализ требований
+SS0635,S113,Управление требованиями,ru,Сбор и анализ требований
+SS0636,S113,User Stories,en,Сбор и анализ требований
+SS0637,S113,Пользовательские истории,ru,Сбор и анализ требований
+SS0638,S113,Acceptance Criteria,en,Сбор и анализ требований
+SS0639,S113,Критерии приемки,ru,Сбор и анализ требований
+SS0640,S113,BRD,en,Сбор и анализ требований
+SS0641,S113,FRD,en,Сбор и анализ требований
+SS0642,S113,SRS,en,Сбор и анализ требований
+SS0643,S113,Use case требования,ru,Сбор и анализ требований
+SS0644,S114,ТЗ,ru,Техническое задание
+SS0645,S114,Написание ТЗ,ru,Техническое задание
+SS0646,S114,ТЗ по ГОСТ 34,ru,Техническое задание
+SS0647,S114,ГОСТ 34,ru,Техническое задание
+SS0648,S114,ГОСТ 19,ru,Техническое задание
+SS0649,S114,Техническая документация,ru,Техническое задание
+SS0650,S114,Постановка задач,ru,Техническое задание
+SS0651,S114,Постановка ТЗ,ru,Техническое задание
+SS0652,S114,Спецификации,ru,Техническое задание
+SS0653,S114,Функциональная спецификация,ru,Техническое задание
+SS0654,S114,Технические требования,ru,Техническое задание
+SS0655,S115,Wireframe,en,Прототипирование
+SS0656,S115,Wireframes,en,Прототипирование
+SS0657,S115,Mockups,en,Прототипирование
+SS0658,S115,Axure,en,Прототипирование
+SS0659,S115,Balsamiq,en,Прототипирование
+SS0660,S115,Прототипы,ru,Прототипирование
+SS0661,S115,Моки,ru,Прототипирование
+SS0662,S115,Balsamiq Mockups,en,Прототипирование
+SS0663,S115,Wireframing,en,Прототипирование
+SS0664,S115,Low-fi прототипы,ru,Прототипирование
+SS0665,S116,Фигма,ru,Figma
+SS0666,S116,Figma Design,en,Figma
+SS0667,S116,Sketch,en,Figma
+SS0668,S116,Adobe XD,en,Figma
+SS0669,S116,Photoshop,en,Figma
+SS0670,S116,Illustrator,en,Figma
+SS0671,S116,Zeplin,en,Figma
+SS0672,S116,Дизайн-системы,ru,Figma
+SS0673,S116,Design System,en,Figma
+SS0674,S117,UX Research,en,UX-исследования
+SS0675,S117,Customer Development,en,UX-исследования
+SS0676,S117,CustDev,en,UX-исследования
+SS0677,S117,Юзабилити-тестирование,ru,UX-исследования
+SS0678,S117,Usability testing,en,UX-исследования
+SS0679,S117,User Research,en,UX-исследования
+SS0680,S117,Jobs to be Done,en,UX-исследования
+SS0681,S117,JTBD,en,UX-исследования
+SS0682,S117,Глубинные интервью,ru,UX-исследования
+SS0683,S117,Персоны,ru,UX-исследования
+SS0684,S117,CJM,en,UX-исследования
+SS0685,S117,Customer Journey Map,en,UX-исследования
+SS0686,S117,Информационная архитектура,ru,UX-исследования
+SS0687,S118,Postman API,en,Postman
+SS0688,S118,Postman collection,en,Postman
+SS0689,S119,Data Analysis,en,Анализ данных
+SS0690,S119,Аналитическое мышление,ru,Анализ данных
+SS0691,S119,Аналитика,ru,Анализ данных
+SS0692,S119,Анализ информации,ru,Анализ данных
+SS0693,S119,Работа с большими данными,ru,Анализ данных
+SS0694,S119,Big Data,en,Анализ данных
+SS0695,S119,Работа с данными,ru,Анализ данных
+SS0696,S119,Data Mining,en,Анализ данных
+SS0697,S119,Data Driven,en,Анализ данных
+SS0698,S120,Скрам,ru,Scrum
+SS0699,S120,Scrum Framework,en,Scrum
+SS0700,S120,Scrum Master,en,Scrum
+SS0701,S120,Sprint Planning,en,Scrum
+SS0702,S120,Спринты,ru,Scrum
+SS0703,S120,Ретроспектива,ru,Scrum
+SS0704,S120,Daily Stand-up,en,Scrum
+SS0705,S120,Scrum events,en,Scrum
+SS0706,S120,PSM,en,Scrum
+SS0707,S120,PSM I,en,Scrum
+SS0708,S120,PSPO,en,Scrum
+SS0709,S120,CSM,en,Scrum
+SS0710,S121,Гибкие методологии,ru,Agile
+SS0711,S121,Agile Methodologies,en,Agile
+SS0712,S121,Гибкая методология,ru,Agile
+SS0713,S121,Agile-подход,ru,Agile
+SS0714,S121,Agile/Scrum,en,Agile
+SS0715,S121,Kanban/Scrum,en,Agile
+SS0716,S121,Agile Transformation,en,Agile
+SS0717,S121,Agile-трансформация,ru,Agile
+SS0718,S121,SAFe,en,Agile
+SS0719,S121,Nexus,en,Agile
+SS0720,S121,Scaled Agile,en,Agile
+SS0721,S122,Канбан,ru,Kanban
+SS0722,S122,Kanban board,en,Kanban
+SS0723,S122,Канбан-доска,ru,Kanban
+SS0724,S122,Lean,en,Kanban
+SS0725,S122,Бережливое производство,ru,Kanban
+SS0726,S122,Flow metrics,en,Kanban
+SS0727,S122,Lead Time,en,Kanban
+SS0728,S122,Cycle Time,en,Kanban
+SS0729,S123,Каскадная модель,ru,Waterfall
+SS0730,S123,Водопад,ru,Waterfall
+SS0731,S123,Водопадная модель,ru,Waterfall
+SS0732,S123,Каскадная методология,ru,Waterfall
+SS0733,S123,Классическое управление проектами,ru,Waterfall
+SS0734,S123,Predictive,en,Waterfall
+SS0735,S124,PMI,en,PMBOK
+SS0736,S124,PMP,en,PMBOK
+SS0737,S124,PMI-PMP,en,PMBOK
+SS0738,S124,PMBOK Guide,en,PMBOK
+SS0739,S124,PRINCE2,en,PMBOK
+SS0740,S124,Prince 2,en,PMBOK
+SS0741,S124,IPMA,en,PMBOK
+SS0742,S124,P2M,en,PMBOK
+SS0743,S125,Risk Management,en,Управление рисками
+SS0744,S125,Риск-менеджмент,ru,Управление рисками
+SS0745,S125,Реестр рисков,ru,Управление рисками
+SS0746,S125,Risk register,en,Управление рисками
+SS0747,S125,Управление рисками проекта,ru,Управление рисками
+SS0748,S125,Оценка рисков,ru,Управление рисками
+SS0749,S125,Risk Analysis,en,Управление рисками
+SS0750,S126,Бюджетирование проектов,ru,Управление бюджетом проекта
+SS0751,S126,Budget Management,en,Управление бюджетом проекта
+SS0752,S126,Бюджет проекта,ru,Управление бюджетом проекта
+SS0753,S126,Project Budget,en,Управление бюджетом проекта
+SS0754,S126,Финансовое планирование проектов,ru,Управление бюджетом проекта
+SS0755,S126,Управление стоимостью,ru,Управление бюджетом проекта
+SS0756,S126,Cost Management,en,Управление бюджетом проекта
+SS0757,S126,P&L проекта,ru,Управление бюджетом проекта
+SS0758,S126,Cost Control,en,Управление бюджетом проекта
+SS0759,S126,Контроль бюджета,ru,Управление бюджетом проекта
+SS0760,S126,Финансовый контроль проекта,ru,Управление бюджетом проекта
+SS0761,S127,Project Planning,en,Планирование
+SS0762,S127,Планирование проектов,ru,Планирование
+SS0763,S127,Календарное планирование,ru,Планирование
+SS0764,S127,Roadmap,en,Планирование
+SS0765,S127,Дорожная карта,ru,Планирование
+SS0766,S127,Gantt,en,Планирование
+SS0767,S127,Диаграмма Ганта,ru,Планирование
+SS0768,S127,WBS,en,Планирование
+SS0769,S127,Иерархическая структура работ,ru,Планирование
+SS0770,S127,Resource planning,en,Планирование
+SS0771,S127,Планирование ресурсов,ru,Планирование
+SS0772,S127,Оценка трудозатрат,ru,Планирование
+SS0773,S127,Estimation,en,Планирование
+SS0774,S127,Оценка сроков,ru,Планирование
+SS0775,S127,Планирование релизов,ru,Планирование
+SS0776,S127,Release Planning,en,Планирование
+SS0777,S128,Microsoft Project,en,MS Project
+SS0778,S128,MSP,en,MS Project
+SS0779,S128,MS Project Server,en,MS Project
+SS0780,S128,Project Online,en,MS Project
+SS0781,S128,Primavera,en,MS Project
+SS0782,S128,Spider Project,en,MS Project
+SS0783,S128,Merlin Project,en,MS Project
+SS0784,S128,OpenProject,en,MS Project
+SS0785,S128,Planner,en,MS Project
+SS0786,S129,Team Management,en,Управление командой
+SS0787,S129,Управление командой разработки,ru,Управление командой
+SS0788,S129,Управление людьми,ru,Управление командой
+SS0789,S129,People Management,en,Управление командой
+SS0790,S129,Leadership,en,Управление командой
+SS0791,S129,Лидерство,ru,Управление командой
+SS0792,S129,Руководство командой,ru,Управление командой
+SS0793,S129,Менторинг,ru,Управление командой
+SS0794,S129,Mentoring,en,Управление командой
+SS0795,S129,1:1,en,Управление командой
+SS0796,S129,Найм,ru,Управление командой
+SS0797,S129,Hiring,en,Управление командой
+SS0798,S129,Рекрутинг,ru,Управление командой
+SS0799,S129,Performance Review,en,Управление командой
+SS0800,S129,Development Plan,en,Управление командой
+SS0801,S130,Stakeholder Management,en,Работа со стейкхолдерами
+SS0802,S130,Управление стейкхолдерами,ru,Работа со стейкхолдерами
+SS0803,S130,Коммуникации с заказчиком,ru,Работа со стейкхолдерами
+SS0804,S130,Работа с заказчиком,ru,Работа со стейкхолдерами
+SS0805,S130,Customer Management,en,Работа со стейкхолдерами
+SS0806,S130,Переговоры,ru,Работа со стейкхолдерами
+SS0807,S130,Negotiation,en,Работа со стейкхолдерами
+SS0808,S130,Презентации,ru,Работа со стейкхолдерами
+SS0809,S130,Stakeholder Communication,en,Работа со стейкхолдерами
+SS0810,S130,Управление ожиданиями,ru,Работа со стейкхолдерами
+SS0811,S130,Коммуникации,ru,Работа со стейкхолдерами
+SS0812,S130,Client Relations,en,Работа со стейкхолдерами
+SS0813,S130,Взаимодействие со смежными подразделениями,ru,Работа со стейкхолдерами
+SS0814,S131,Implementation,en,Внедрение ПО
+SS0815,S131,Внедрение информационных систем,ru,Внедрение ПО
+SS0816,S131,Внедрение ИС,ru,Внедрение ПО
+SS0817,S131,Внедрение ERP,ru,Внедрение ПО
+SS0818,S131,Внедрение CRM,ru,Внедрение ПО
+SS0819,S131,Опытная эксплуатация,ru,Внедрение ПО
+SS0820,S131,Go-live,en,Внедрение ПО
+SS0821,S131,Миграция данных,ru,Внедрение ПО
+SS0822,S131,Data Migration,en,Внедрение ПО
+SS0823,S131,Обучение пользователей,ru,Внедрение ПО
+SS0824,S131,Сопровождение внедрения,ru,Внедрение ПО
+SS0825,S131,Pilot Project,en,Внедрение ПО
+SS0826,S131,Rollout,en,Внедрение ПО
+SS0827,S131,Cutover,en,Внедрение ПО
+SS0828,S131,Приемка проекта,ru,Внедрение ПО
+SS0829,S131,UAT,en,Внедрение ПО
+SS0830,S131,Приемо-сдаточные испытания,ru,Внедрение ПО
+SS0831,S132,Portfolio Management,en,Управление портфелем/программой
+SS0832,S132,Program Management,en,Управление портфелем/программой
+SS0833,S132,Управление портфелем проектов,ru,Управление портфелем/программой
+SS0834,S132,Управление программой,ru,Управление портфелем/программой
+SS0835,S132,Управление программами,ru,Управление портфелем/программой
+SS0836,S132,PMO,en,Управление портфелем/программой
+SS0837,S132,Проектный офис,ru,Управление портфелем/программой
+SS0838,S132,Организация проектного офиса,ru,Управление портфелем/программой
+SS0839,S132,Project Portfolio,en,Управление портфелем/программой
+SS0840,S132,Портфель проектов,ru,Управление портфелем/программой
+SS0841,S132,Multi-project management,en,Управление портфелем/программой
+SS0842,S132,Управление несколькими проектами,ru,Управление портфелем/программой
+SS0843,S133,Project KPI,en,KPI/метрики проекта
+SS0844,S133,Метрики проекта,ru,KPI/метрики проекта
+SS0845,S133,Отчетность по проекту,ru,KPI/метрики проекта
+SS0846,S133,Status Report,en,KPI/метрики проекта
+SS0847,S133,Project Reporting,en,KPI/метрики проекта
+SS0848,S133,Burn-down,en,KPI/метрики проекта
+SS0849,S133,Burndown,en,KPI/метрики проекта
+SS0850,S133,Velocity,en,KPI/метрики проекта
+SS0851,S133,Earned Value,en,KPI/метрики проекта
+SS0852,S133,EVM,en,KPI/метрики проекта
+SS0853,S133,OKR,en,KPI/метрики проекта
+SS0854,S133,Project Metrics,en,KPI/метрики проекта
+SS0855,S133,Project Status,en,KPI/метрики проекта
+SS0856,S133,Статус проекта,ru,KPI/метрики проекта
+SS0857,S134,ITIL 4,en,ITIL
+SS0858,S134,ITIL v3,en,ITIL
+SS0859,S134,ITSM,en,ITIL
+SS0860,S134,IT Service Management,en,ITIL
+SS0861,S134,Управление ИТ-услугами,ru,ITIL
+SS0862,S134,Incident Management,en,ITIL
+SS0863,S134,Change Management,en,ITIL
+SS0864,S134,Управление инцидентами,ru,ITIL
+SS0865,S134,Управление изменениями,ru,ITIL
+SS0866,S134,Управление проблемами,ru,ITIL
+SS0867,S134,SLA,en,ITIL
+SS0868,S134,Service Level Agreement,en,ITIL
+SS0869,S134,ServiceNow,en,ITIL
+SS0870,S134,Service Desk,en,ITIL
+SS0871,S134,Jira Service Management,en,ITIL
+SS0872,S134,Управление конфигурациями,ru,ITIL
+SS0873,S134,CMDB,en,ITIL
+SS0874,S134,COBIT,en,ITIL
+SS0875,S134,Управление ИТ-сервисами,ru,ITIL
+SS0876,S134,ITSM-системы,ru,ITIL
+SS0877,S135,Продуктовый менеджмент,ru,Product Management
+SS0878,S135,Product Discovery,en,Product Management
+SS0879,S135,Product Development,en,Product Management
+SS0880,S135,Product Strategy,en,Product Management
+SS0881,S135,Продуктовая стратегия,ru,Product Management
+SS0882,S135,Product Roadmap,en,Product Management
+SS0883,S135,Продуктовая дорожная карта,ru,Product Management
+SS0884,S135,Backlog,en,Product Management
+SS0885,S135,Бэклог,ru,Product Management
+SS0886,S135,Приоритизация,ru,Product Management
+SS0887,S135,Prioritization,en,Product Management
+SS0888,S135,RICE,en,Product Management
+SS0889,S135,MoSCoW,en,Product Management
+SS0890,S135,Kano,en,Product Management
+SS0891,S135,Go-to-market,en,Product Management
+SS0892,S135,GTM strategy,en,Product Management
+SS0893,S135,PMF,en,Product Management
+SS0894,S135,Product-market fit,en,Product Management
+SS0895,S135,Lean Startup,en,Product Management
+SS0896,S135,MVP,en,Product Management
+SS0897,S135,Product Vision,en,Product Management
+SS0898,S135,Гипотезы,ru,Product Management
+SS0899,S135,Hypothesis-driven,en,Product Management
+SS0900,S135,OKR продукта,ru,Product Management
+SS0901,S135,Unit Economics,en,Product Management
+SS0902,S135,Pricing,en,Product Management
+SS0903,S135,Монетизация,ru,Product Management
+SS0904,S136,Technical Documentation,en,Документация
+SS0905,S136,Написание документации,ru,Документация
+SS0906,S136,Разработка документации,ru,Документация
+SS0907,S136,Docs-as-Code,en,Документация
+SS0908,S136,Markdown,en,Документация
+SS0909,S136,Руководство пользователя,ru,Документация
+SS0910,S136,Руководство администратора,ru,Документация
+SS0911,S136,User Guide,en,Документация
+SS0912,S136,Admin Guide,en,Документация
+SS0913,S136,Release Notes,en,Документация
+SS0914,S136,Changelog,en,Документация
+SS0915,S136,Справочные материалы,ru,Документация
+SS0916,S136,Инструкции,ru,Документация
+SS0917,S136,Knowledge Base,en,Документация
+SS0918,S136,Confluence Docs,en,Документация
+SS0919,S136,ГОСТ 19.xxx,ru,Документация
+SS0920,S136,ЕСПД,ru,Документация
+SS0921,S136,Техническое описание,ru,Документация
+SS0922,S136,API Docs,en,Документация
+SS0923,S136,API документация,ru,Документация
+SS0924,S136,OpenAPI docs,en,Документация
+SS0925,S136,Sphinx,en,Документация
+SS0926,S136,MkDocs,en,Документация
+SS0927,S136,Docusaurus,en,Документация
+SS0928,S136,DITA,en,Документация
+SS0929,S136,AsciiDoc,en,Документация
+SS0930,S136,reStructuredText,en,Документация
+SS0931,S136,Gitbook,en,Документация
+SS0932,S136,Структурированные документы,ru,Документация
+SS0933,S137,English,en,Английский язык
+SS0934,S137,Английский,ru,Английский язык
+SS0935,S137,Технический английский,ru,Английский язык
+SS0936,S137,Upper-Intermediate,en,Английский язык
+SS0937,S137,B2,en,Английский язык
+SS0938,S137,Intermediate,en,Английский язык
+SS0939,S137,Английский язык B1,ru,Английский язык
+SS0940,S137,Английский язык B2,ru,Английский язык
+SS0941,S137,Fluent English,en,Английский язык
+SS0942,S137,Разговорный английский,ru,Английский язык
+SS0943,S137,Читаю техническую документацию,ru,Английский язык
+SS0944,S138,Тайм-менеджмент,ru,Приоритизация и тайм-менеджмент
+SS0945,S138,Time Management,en,Приоритизация и тайм-менеджмент
+SS0946,S138,Многозадачность,ru,Приоритизация и тайм-менеджмент
+SS0947,S138,Multitasking,en,Приоритизация и тайм-менеджмент
+SS0948,S138,Организованность,ru,Приоритизация и тайм-менеджмент
+SS0949,S138,Умение расставлять приоритеты,ru,Приоритизация и тайм-менеджмент
+SS0950,S138,Self-management,en,Приоритизация и тайм-менеджмент
+SS0951,S138,Ответственность,ru,Приоритизация и тайм-менеджмент
+SS0952,S138,Самоорганизация,ru,Приоритизация и тайм-менеджмент
+SS0953,S139,Firebase Cloud Messaging,en,Firebase
+SS0954,S139,FCM,en,Firebase
+SS0955,S139,Firestore,en,Firebase
+SS0956,S139,Crashlytics,en,Firebase
+SS0957,S140,Project Management,en,Управление проектами
+SS0958,S140,Проектный менеджмент,ru,Управление проектами
+SS0959,S140,Проектное управление,ru,Управление проектами
+SS0960,S140,Delivery Management,en,Управление проектами
+SS0961,S140,Управление IT-проектами,ru,Управление проектами
+SS0962,S140,Руководство проектами,ru,Управление проектами
+SS0963,S140,Ведение проектов,ru,Управление проектами
+SS0964,S140,Delivery,en,Управление проектами
