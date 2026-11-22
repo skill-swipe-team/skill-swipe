@@ -2,3 +2,6 @@ databaseChangeLog:
   - include:
       file: changelogs/ssk-2.xml
       relativeToChangelogFile: true
+  - include:
+      file: changelogs/ssk-4.xml
+      relativeToChangelogFile: true
