@@ -1,0 +1,141 @@
+﻿id,name
+1,Python
+2,Java
+3,Kotlin
+4,C#
+5,.NET
+6,PHP
+7,Go
+8,JavaScript
+9,TypeScript
+10,C++
+11,C
+12,Swift
+13,Objective-C
+14,Dart
+15,Ruby
+16,Rust
+17,Scala
+18,R
+19,1С:Предприятие
+20,1С:ERP
+21,SAP
+22,SQL
+23,PostgreSQL
+24,MySQL
+25,MS SQL Server
+26,Oracle Database
+27,ClickHouse
+28,MongoDB
+29,Redis
+30,Elasticsearch
+31,Kafka
+32,RabbitMQ
+33,Hadoop
+34,Spark
+35,Airflow
+36,ETL
+37,DWH
+38,Spring
+39,Django
+40,FastAPI
+41,Flask
+42,Laravel
+43,Symfony
+44,Node.js
+45,React
+46,Vue.js
+47,Angular
+48,HTML/CSS
+49,Flutter
+50,React Native
+51,Android SDK
+52,iOS SDK
+53,Unity
+54,Unreal Engine
+55,REST API
+56,GraphQL
+57,gRPC
+58,SOAP
+59,Микросервисы
+60,ООП
+61,JSON/XML
+62,Интеграция систем
+63,OpenAPI/Swagger
+64,Git
+65,Docker
+66,Kubernetes
+67,CI/CD
+68,Linux
+69,Windows Server
+70,Ansible
+71,Terraform
+72,Nginx
+73,Prometheus/Grafana
+74,AWS
+75,Яндекс.Облако
+76,VK Cloud
+77,Azure
+78,Виртуализация
+79,Сети (TCP/IP)
+80,Cisco
+81,Mikrotik
+82,Firewall
+83,Информационная безопасность
+84,Пентест
+85,SIEM/SOC
+86,Криптография/PKI
+87,Регуляторика ИБ
+88,Ручное тестирование
+89,Автоматизация тестирования
+90,Тест-документация
+91,Нагрузочное тестирование
+92,API-тестирование
+93,Jira
+94,Confluence
+95,TestRail
+96,Pandas
+97,Машинное обучение
+98,Глубокое обучение
+99,NLP/LLM
+100,Computer Vision
+101,MLOps
+102,Статистика
+103,Power BI
+104,Tableau
+105,DataLens
+106,Superset
+107,Excel
+108,Google Analytics
+109,Python для анализа данных
+110,BPMN
+111,UML
+112,ER-моделирование
+113,Сбор и анализ требований
+114,Техническое задание
+115,Прототипирование
+116,Figma
+117,UX-исследования
+118,Postman
+119,Анализ данных
+120,Scrum
+121,Agile
+122,Kanban
+123,Waterfall
+124,PMBOK
+125,Управление рисками
+126,Управление бюджетом проекта
+127,Планирование
+128,MS Project
+129,Управление командой
+130,Работа со стейкхолдерами
+131,Внедрение ПО
+132,Управление портфелем/программой
+133,KPI/метрики проекта
+134,ITIL
+135,Product Management
+136,Документация
+137,Английский язык
+138,Приоритизация и тайм-менеджмент
+139,Firebase
+140,Управление проектами
