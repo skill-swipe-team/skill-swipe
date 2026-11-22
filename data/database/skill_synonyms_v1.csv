@@ -1,0 +1,965 @@
+﻿id,skill_id,synonym,lang
+1,1,python3,en
+2,1,Python 3,en
+3,1,Питон,ru
+4,1,py,en
+5,2,Java SE,en
+6,2,Java 8,en
+7,2,Java 11,en
+8,2,Java 17,en
+9,2,Джава,ru
+10,2,JDK,en
+11,3,Котлин,ru
+12,4,C Sharp,en
+13,4,С#,ru
+14,4,си шарп,ru
+15,4,CSharp,en
+16,5,.NET Core,en
+17,5,.NET Framework,en
+18,5,dotnet,en
+19,5,ASP.NET,en
+20,5,ASP.NET Core,en
+21,5,.NET 6,en
+22,5,.NET 8,en
+23,5,NET,en
+24,6,PHP 7,en
+25,6,PHP 8,en
+26,6,ПХП,ru
+27,7,Golang,en
+28,7,Го,ru
+29,7,Go lang,en
+30,8,JS,en
+31,8,ECMAScript,en
+32,8,ES6,en
+33,8,Джаваскрипт,ru
+34,9,TS,en
+35,9,Тайпскрипт,ru
+36,10,CPP,en
+37,10,С++,ru
+38,10,C/C++,en
+39,10,Си плюс плюс,ru
+40,11,Си,ru
+41,11,C language,en
+42,12,Свифт,ru
+43,12,Swift 5,en
+44,13,ObjC,en
+45,13,Obj-C,en
+46,14,Дарт,ru
+47,15,Ruby on Rails,en
+48,15,RoR,en
+49,15,Руби,ru
+50,16,Раст,ru
+51,17,Скала,ru
+52,18,R language,en
+53,18,Язык R,ru
+54,19,1С,ru
+55,19,1C,en
+56,19,1С 8,ru
+57,19,1С:Предприятие 8.3,ru
+58,19,1С 8.3,ru
+59,19,1C:Enterprise,en
+60,19,1С:Предприятие 8,ru
+61,19,Платформа 1С,ru
+62,20,1С ERP,ru
+63,20,1C:ERP,en
+64,20,1С:ERP Управление предприятием,ru
+65,20,ERP 2.5,en
+66,20,1С УТ,ru
+67,20,1С:Управление торговлей,ru
+68,20,1С:УТ,ru
+69,20,1С:Бухгалтерия,ru
+70,20,1С БП,ru
+71,20,1С ЗУП,ru
+72,20,1С:ЗУП,ru
+73,21,SAP ERP,en
+74,21,SAP S/4HANA,en
+75,21,SAP ABAP,en
+76,21,ABAP,en
+77,21,SAP FI/CO,en
+78,21,SAP MM,en
+79,22,Structured Query Language,en
+80,22,Язык SQL,ru
+81,22,T-SQL,en
+82,22,PL/SQL,en
+83,22,SQL запросы,ru
+84,22,Написание SQL-запросов,ru
+85,23,Postgres,en
+86,23,PG,en
+87,23,Постгрес,ru
+88,23,Postgre SQL,en
+89,24,MariaDB,en
+90,24,Мускуль,ru
+91,25,MSSQL,en
+92,25,Microsoft SQL Server,en
+93,25,SQL Server,en
+94,25,T-SQL MSSQL,en
+95,26,Oracle,en
+96,26,Oracle DB,en
+97,26,Oracle PL/SQL,en
+98,27,CH,en
+99,27,Кликхаус,ru
+100,28,Mongo,en
+101,28,NoSQL Mongo,en
+102,29,Редис,ru
+103,29,Redis Cache,en
+104,30,ES,en
+105,30,Elastic,en
+106,30,ELK,en
+107,30,Elastic Stack,en
+108,30,OpenSearch,en
+109,31,Apache Kafka,en
+110,31,Кафка,ru
+111,32,Rabbit MQ,en
+112,32,AMQP,en
+113,32,Кролик,ru
+114,33,Apache Hadoop,en
+115,33,HDFS,en
+116,33,Hive,en
+117,33,MapReduce,en
+118,34,Apache Spark,en
+119,34,PySpark,en
+120,34,Spark SQL,en
+121,35,Apache Airflow,en
+122,35,Эйрфлоу,ru
+123,36,ELT,en
+124,36,ETL/ELT,en
+125,36,Data pipelines,en
+126,36,Пайплайны данных,ru
+127,36,Data Integration,en
+128,37,Data Warehouse,en
+129,37,Хранилище данных,ru
+130,37,КХД,ru
+131,37,Корпоративное хранилище данных,ru
+132,37,Data Lake,en
+133,37,Data Vault,en
+134,38,Spring Boot,en
+135,38,Spring Framework,en
+136,38,Spring MVC,en
+137,38,Spring Cloud,en
+138,38,Спринг,ru
+139,39,Django REST Framework,en
+140,39,DRF,en
+141,39,Джанго,ru
+142,40,Fast API,en
+143,41,Фласк,ru
+144,42,Ларавель,ru
+145,43,Симфони,ru
+146,44,NodeJS,en
+147,44,Node,en
+148,44,Нода,ru
+149,44,Express,en
+150,44,Express.js,en
+151,44,NestJS,en
+152,44,Nest.js,en
+153,45,React.js,en
+154,45,ReactJS,en
+155,45,Реакт,ru
+156,45,React JS,en
+157,45,Redux,en
+158,45,Next.js,en
+159,45,NextJS,en
+160,46,Vue,en
+161,46,VueJS,en
+162,46,Vue 3,en
+163,46,Vuex,en
+164,46,Pinia,en
+165,46,Nuxt,en
+166,46,Nuxt.js,en
+167,47,AngularJS,en
+168,47,Angular 2+,en
+169,47,Ангуляр,ru
+170,47,RxJS,en
+171,48,HTML,en
+172,48,CSS,en
+173,48,HTML5,en
+174,48,CSS3,en
+175,48,HTML5/CSS3,en
+176,48,Верстка,ru
+177,48,Адаптивная верстка,ru
+178,48,SASS,en
+179,48,SCSS,en
+180,48,LESS,en
+181,48,Bootstrap,en
+182,48,Tailwind,en
+183,48,БЭМ,ru
+184,48,Cross-browser,en
+185,49,Флаттер,ru
+186,49,Flutter SDK,en
+187,50,RN,en
+188,50,ReactNative,en
+189,51,Android,en
+190,51,Jetpack Compose,en
+191,51,Android Studio,en
+192,51,Андроид,ru
+193,52,iOS,en
+194,52,SwiftUI,en
+195,52,UIKit,en
+196,52,Xcode,en
+197,52,Cocoa Touch,en
+198,53,Unity3D,en
+199,53,Unity 3D,en
+200,53,Юнити,ru
+201,54,UE4,en
+202,54,UE5,en
+203,54,Unreal,en
+204,54,Unreal Engine 5,en
+205,55,REST,en
+206,55,RESTful,en
+207,55,RESTful API,en
+208,55,HTTP API,en
+209,55,REST-интеграции,ru
+210,56,Graph QL,en
+211,56,Apollo,en
+212,57,Protobuf,en
+213,57,Protocol Buffers,en
+214,58,SOAP API,en
+215,58,WSDL,en
+216,58,XML-RPC,en
+217,59,Microservices,en
+218,59,Микросервисная архитектура,ru
+219,59,Microservice architecture,en
+220,59,SOA,en
+221,60,OOP,en
+222,60,Объектно-ориентированное программирование,ru
+223,60,SOLID,en
+224,60,Паттерны проектирования,ru
+225,60,Design Patterns,en
+226,60,DDD,en
+227,61,JSON,en
+228,61,XML,en
+229,61,XSD,en
+230,61,Парсинг JSON,ru
+231,61,Работа с JSON/XML,ru
+232,62,Интеграции,ru
+233,62,Enterprise Integration,en
+234,62,EAI,en
+235,62,ESB,en
+236,62,Системная интеграция,ru
+237,62,Интеграционные решения,ru
+238,62,Интеграция сервисов,ru
+239,63,Swagger,en
+240,63,OpenAPI,en
+241,63,OAS,en
+242,63,Postman Collections,en
+243,63,Swagger UI,en
+244,64,GitHub,en
+245,64,GitLab,en
+246,64,Bitbucket,en
+247,64,Система контроля версий,ru
+248,64,VCS,en
+249,64,SVN,en
+250,64,Гит,ru
+251,64,Git Flow,en
+252,65,Docker Compose,en
+253,65,Докер,ru
+254,65,Контейнеризация,ru
+255,65,Containers,en
+256,65,Dockerfile,en
+257,66,K8s,en
+258,66,Кубернетес,ru
+259,66,Кубер,ru
+260,66,Helm,en
+261,66,OpenShift,en
+262,66,Rancher,en
+263,67,CI,en
+264,67,CD,en
+265,67,Continuous Integration,en
+266,67,Continuous Delivery,en
+267,67,Jenkins,en
+268,67,GitLab CI,en
+269,67,GitHub Actions,en
+270,67,TeamCity,en
+271,67,Bamboo,en
+272,67,Непрерывная интеграция,ru
+273,68,Unix,en
+274,68,Ubuntu,en
+275,68,CentOS,en
+276,68,Debian,en
+277,68,Red Hat,en
+278,68,RHEL,en
+279,68,Astra Linux,en
+280,68,Linux/Unix,en
+281,68,Bash,en
+282,68,Shell,en
+283,68,Shell scripting,en
+284,68,Bash-скрипты,ru
+285,69,Windows,en
+286,69,Active Directory,en
+287,69,AD,en
+288,69,Windows Server 2019,en
+289,69,GPO,en
+290,69,Групповые политики,ru
+291,69,Exchange,en
+292,69,MS Exchange,en
+293,70,Ансибл,ru
+294,70,Ansible playbooks,en
+295,71,Терраформ,ru
+296,71,IaC,en
+297,71,Infrastructure as Code,en
+298,71,Pulumi,en
+299,72,Нжинкс,ru
+300,72,HAProxy,en
+301,72,Apache HTTP Server,en
+302,73,Prometheus,en
+303,73,Grafana,en
+304,73,Мониторинг,ru
+305,73,Zabbix,en
+306,73,Zabbix мониторинг,ru
+307,73,ELK мониторинг,ru
+308,73,Alertmanager,en
+309,73,Observability,en
+310,73,Наблюдаемость,ru
+311,73,Loki,en
+312,74,Amazon Web Services,en
+313,74,Amazon AWS,en
+314,74,EC2,en
+315,74,S3,en
+316,74,AWS Lambda,en
+317,75,Yandex Cloud,en
+318,75,Yandex.Cloud,en
+319,75,YC,en
+320,75,Облачные платформы Яндекса,ru
+321,76,Mail.ru Cloud Solutions,en
+322,76,MCS,en
+323,76,VK Cloud Solutions,en
+324,76,Mail.ru Cloud,en
+325,77,Microsoft Azure,en
+326,77,Azure DevOps,en
+327,77,Azure Cloud,en
+328,78,VMware,en
+329,78,VMware vSphere,en
+330,78,vSphere,en
+331,78,Hyper-V,en
+332,78,KVM,en
+333,78,Proxmox,en
+334,78,Virtualization,en
+335,78,ESXi,en
+336,78,Docker/VM,en
+337,79,TCP/IP,en
+338,79,Сетевые протоколы,ru
+339,79,DNS,en
+340,79,DHCP,en
+341,79,VPN,en
+342,79,OSI,en
+343,79,Маршрутизация,ru
+344,79,Routing,en
+345,79,BGP,en
+346,79,OSPF,en
+347,79,VLAN,en
+348,79,LAN/WAN,en
+349,80,Cisco IOS,en
+350,80,CCNA,en
+351,80,CCNP,en
+352,80,Cisco Nexus,en
+353,80,Маршрутизаторы Cisco,ru
+354,81,RouterOS,en
+355,81,Микротик,ru
+356,82,Межсетевой экран,ru
+357,82,NGFW,en
+358,82,Fortinet,en
+359,82,FortiGate,en
+360,82,Check Point,en
+361,82,Palo Alto,en
+362,82,Файрвол,ru
+363,82,UserGate,en
+364,82,Ideco,en
+365,83,ИБ,ru
+366,83,InfoSec,en
+367,83,Cyber Security,en
+368,83,Кибербезопасность,ru
+369,83,Защита информации,ru
+370,83,ISO 27001,en
+371,83,Information Security,en
+372,84,Penetration Testing,en
+373,84,Pentest,en
+374,84,Тестирование на проникновение,ru
+375,84,OWASP,en
+376,84,Red Team,en
+377,84,Bug Bounty,en
+378,84,Kali Linux,en
+379,85,SIEM,en
+380,85,SOC,en
+381,85,Splunk,en
+382,85,MaxPatrol SIEM,en
+383,85,QRadar,en
+384,85,KUMA,en
+385,85,Мониторинг ИБ,ru
+386,85,Расследование инцидентов,ru
+387,85,Incident Response,en
+388,85,IRP,en
+389,85,Threat Hunting,en
+390,86,Криптография,ru
+391,86,PKI,en
+392,86,КриптоПро,ru
+393,86,ГОСТ,ru
+394,86,ЭЦП,ru
+395,86,Сертификаты X.509,ru
+396,86,TLS/SSL,en
+397,86,SSL,en
+398,87,152-ФЗ,ru
+399,87,187-ФЗ,ru
+400,87,КИИ,ru
+401,87,ФСТЭК,ru
+402,87,ФСБ,ru
+403,87,Персональные данные,ru
+404,87,GDPR,en
+405,87,PCI DSS,en
+406,87,Приказ 21 ФСТЭК,ru
+407,87,ГОСТ Р 57580,ru
+408,88,Manual Testing,en
+409,88,Функциональное тестирование,ru
+410,88,Мануальное тестирование,ru
+411,88,Regression Testing,en
+412,88,Регрессионное тестирование,ru
+413,88,Smoke,en
+414,88,Exploratory testing,en
+415,88,Тестирование веб-приложений,ru
+416,88,Mobile Testing,en
+417,89,Test Automation,en
+418,89,Автотесты,ru
+419,89,Автоматизированное тестирование,ru
+420,89,Selenium,en
+421,89,Selenide,en
+422,89,Playwright,en
+423,89,Cypress,en
+424,89,Appium,en
+425,89,Pytest,en
+426,89,JUnit,en
+427,89,TestNG,en
+428,89,Allure,en
+429,89,Robot Framework,en
+430,89,Page Object,en
+431,89,Rest Assured,en
+432,90,Тест-кейсы,ru
+433,90,Test Cases,en
+434,90,Чек-листы,ru
+435,90,Test Plan,en
+436,90,Тест-план,ru
+437,90,Тест-дизайн,ru
+438,90,Баг-репорты,ru
+439,90,Bug Report,en
+440,90,Test Design,en
+441,90,Тестовая документация,ru
+442,90,Bug tracking,en
+443,91,Load Testing,en
+444,91,Performance testing,en
+445,91,JMeter,en
+446,91,Gatling,en
+447,91,Locust,en
+448,91,Нагрузочное,ru
+449,91,K6,en
+450,91,LoadRunner,en
+451,92,SoapUI,en
+452,92,Тестирование API,ru
+453,92,API testing,en
+454,92,Insomnia,en
+455,92,Swagger тестирование,ru
+456,93,Atlassian Jira,en
+457,93,Jira Software,en
+458,93,Jira Service Desk,en
+459,93,Atlassian,en
+460,93,Джира,ru
+461,93,YouTrack,en
+462,93,Redmine,en
+463,93,Trello,en
+464,93,Azure Boards,en
+465,94,Атлассиан Confluence,ru
+466,94,Wiki,en
+467,94,Confluence Wiki,en
+468,94,Вики,ru
+469,94,Notion,en
+470,94,Базa знаний,ru
+471,94,База знаний,ru
+472,95,Test Rail,en
+473,95,Allure TestOps,en
+474,95,Zephyr,en
+475,95,TestIT,en
+476,95,Test IT,en
+477,95,Qase,en
+478,95,Xray,en
+479,96,Pandas/NumPy,en
+480,96,NumPy,en
+481,96,SciPy,en
+482,96,Jupyter,en
+483,96,Jupyter Notebook,en
+484,97,Machine Learning,en
+485,97,ML,en
+486,97,Scikit-learn,en
+487,97,sklearn,en
+488,97,CatBoost,en
+489,97,XGBoost,en
+490,97,LightGBM,en
+491,97,Градиентный бустинг,ru
+492,97,Feature Engineering,en
+493,97,Модели ML,ru
+494,97,ML-модели,ru
+495,97,Классические алгоритмы ML,ru
+496,98,Deep Learning,en
+497,98,DL,en
+498,98,PyTorch,en
+499,98,TensorFlow,en
+500,98,Keras,en
+501,98,Нейронные сети,ru
+502,98,CNN,en
+503,98,RNN,en
+504,98,Transformers,en
+505,98,Hugging Face,en
+506,98,Нейросети,ru
+507,99,NLP,en
+508,99,Natural Language Processing,en
+509,99,LLM,en
+510,99,Large Language Models,en
+511,99,LangChain,en
+512,99,RAG,en
+513,99,GPT,en
+514,99,Prompt engineering,en
+515,99,Обработка естественного языка,ru
+516,99,Языковые модели,ru
+517,99,Generative AI,en
+518,99,GenAI,en
+519,100,CV,en
+520,100,OpenCV,en
+521,100,Компьютерное зрение,ru
+522,100,Object Detection,en
+523,100,YOLO,en
+524,100,Image Recognition,en
+525,101,ML Ops,en
+526,101,MLflow,en
+527,101,Kubeflow,en
+528,101,DVC,en
+529,101,Model Deployment,en
+530,101,Деплой моделей,ru
+531,101,Feature Store,en
+532,102,A/B тесты,ru
+533,102,A/B тестирование,ru
+534,102,AB-тесты,ru
+535,102,Статистический анализ,ru
+536,102,Статистические методы,ru
+537,102,Математическая статистика,ru
+538,102,Теория вероятностей,ru
+539,102,Проверка гипотез,ru
+540,102,Эконометрика,ru
+541,103,PowerBI,en
+542,103,Microsoft Power BI,en
+543,103,DAX,en
+544,103,Power Query,en
+545,103,Power BI Desktop,en
+546,104,Tableau Desktop,en
+547,104,Табло,ru
+548,105,Yandex DataLens,en
+549,105,Яндекс DataLens,ru
+550,106,Apache Superset,en
+551,106,Metabase,en
+552,106,Redash,en
+553,106,QlikView,en
+554,106,Qlik Sense,en
+555,106,Qlik,en
+556,106,Visiology,en
+557,106,Luxms BI,en
+558,106,Форсайт,ru
+559,107,Microsoft Excel,en
+560,107,MS Excel,en
+561,107,Эксель,ru
+562,107,Google Sheets,en
+563,107,Google Таблицы,ru
+564,107,VBA,en
+565,107,Сводные таблицы,ru
+566,107,ВПР,ru
+567,107,Формулы Excel,ru
+568,107,Продвинутый Excel,ru
+569,108,GA4,en
+570,108,Google Analytics 4,en
+571,108,Yandex Metrica,en
+572,108,Яндекс Метрика,ru
+573,108,Яндекс.Метрика,ru
+574,108,Amplitude,en
+575,108,Mixpanel,en
+576,108,AppMetrica,en
+577,108,Web-аналитика,ru
+578,108,Google Tag Manager,en
+579,108,GTM,en
+580,108,Продуктовая аналитика,ru
+581,108,Когортный анализ,ru
+582,108,Воронки,ru
+583,108,Unit-экономика,ru
+584,108,Метрики продукта,ru
+585,109,Python для аналитики,ru
+586,109,Python (pandas),en
+587,109,Matplotlib,en
+588,109,Seaborn,en
+589,109,Plotly,en
+590,109,Визуализация данных,ru
+591,109,Data Visualization,en
+592,110,BPMN 2.0,en
+593,110,Моделирование бизнес-процессов,ru
+594,110,Бизнес-процессы,ru
+595,110,Описание бизнес-процессов,ru
+596,110,Bizagi,en
+597,110,ARIS,en
+598,110,Camunda,en
+599,110,Regulation BPMN,en
+600,110,Оптимизация бизнес-процессов,ru
+601,110,As-Is/To-Be,en
+602,110,AS-IS TO-BE,en
+603,111,Unified Modeling Language,en
+604,111,Диаграммы UML,ru
+605,111,Sequence diagram,en
+606,111,Диаграммы последовательности,ru
+607,111,Use Case,en
+608,111,Use Cases,en
+609,111,Диаграммы классов,ru
+610,111,Activity diagram,en
+611,111,Диаграммы активности,ru
+612,111,Диаграммы состояний,ru
+613,111,C4 Model,en
+614,111,ArchiMate,en
+615,112,ERD,en
+616,112,ER-диаграммы,ru
+617,112,Проектирование БД,ru
+618,112,Проектирование баз данных,ru
+619,112,Моделирование данных,ru
+620,112,Data Modeling,en
+621,112,Нормализация,ru
+622,112,Физическая модель данных,ru
+623,112,Логическая модель данных,ru
+624,112,Data Model,en
+625,113,Requirements Elicitation,en
+626,113,Requirements Analysis,en
+627,113,Требования,ru
+628,113,Business Requirements,en
+629,113,Бизнес-требования,ru
+630,113,Функциональные требования,ru
+631,113,Нефункциональные требования,ru
+632,113,Elicitation,en
+633,113,Интервью с заказчиком,ru
+634,113,Работа с требованиями,ru
+635,113,Управление требованиями,ru
+636,113,User Stories,en
+637,113,Пользовательские истории,ru
+638,113,Acceptance Criteria,en
+639,113,Критерии приемки,ru
+640,113,BRD,en
+641,113,FRD,en
+642,113,SRS,en
+643,113,Use case требования,ru
+644,114,ТЗ,ru
+645,114,Написание ТЗ,ru
+646,114,ТЗ по ГОСТ 34,ru
+647,114,ГОСТ 34,ru
+648,114,ГОСТ 19,ru
+649,114,Техническая документация,ru
+650,114,Постановка задач,ru
+651,114,Постановка ТЗ,ru
+652,114,Спецификации,ru
+653,114,Функциональная спецификация,ru
+654,114,Технические требования,ru
+655,115,Wireframe,en
+656,115,Wireframes,en
+657,115,Mockups,en
+658,115,Axure,en
+659,115,Balsamiq,en
+660,115,Прототипы,ru
+661,115,Моки,ru
+662,115,Balsamiq Mockups,en
+663,115,Wireframing,en
+664,115,Low-fi прототипы,ru
+665,116,Фигма,ru
+666,116,Figma Design,en
+667,116,Sketch,en
+668,116,Adobe XD,en
+669,116,Photoshop,en
+670,116,Illustrator,en
+671,116,Zeplin,en
+672,116,Дизайн-системы,ru
+673,116,Design System,en
+674,117,UX Research,en
+675,117,Customer Development,en
+676,117,CustDev,en
+677,117,Юзабилити-тестирование,ru
+678,117,Usability testing,en
+679,117,User Research,en
+680,117,Jobs to be Done,en
+681,117,JTBD,en
+682,117,Глубинные интервью,ru
+683,117,Персоны,ru
+684,117,CJM,en
+685,117,Customer Journey Map,en
+686,117,Информационная архитектура,ru
+687,118,Postman API,en
+688,118,Postman collection,en
+689,119,Data Analysis,en
+690,119,Аналитическое мышление,ru
+691,119,Аналитика,ru
+692,119,Анализ информации,ru
+693,119,Работа с большими данными,ru
+694,119,Big Data,en
+695,119,Работа с данными,ru
+696,119,Data Mining,en
+697,119,Data Driven,en
+698,120,Скрам,ru
+699,120,Scrum Framework,en
+700,120,Scrum Master,en
+701,120,Sprint Planning,en
+702,120,Спринты,ru
+703,120,Ретроспектива,ru
+704,120,Daily Stand-up,en
+705,120,Scrum events,en
+706,120,PSM,en
+707,120,PSM I,en
+708,120,PSPO,en
+709,120,CSM,en
+710,121,Гибкие методологии,ru
+711,121,Agile Methodologies,en
+712,121,Гибкая методология,ru
+713,121,Agile-подход,ru
+714,121,Agile/Scrum,en
+715,121,Kanban/Scrum,en
+716,121,Agile Transformation,en
+717,121,Agile-трансформация,ru
+718,121,SAFe,en
+719,121,Nexus,en
+720,121,Scaled Agile,en
+721,122,Канбан,ru
+722,122,Kanban board,en
+723,122,Канбан-доска,ru
+724,122,Lean,en
+725,122,Бережливое производство,ru
+726,122,Flow metrics,en
+727,122,Lead Time,en
+728,122,Cycle Time,en
+729,123,Каскадная модель,ru
+730,123,Водопад,ru
+731,123,Водопадная модель,ru
+732,123,Каскадная методология,ru
+733,123,Классическое управление проектами,ru
+734,123,Predictive,en
+735,124,PMI,en
+736,124,PMP,en
+737,124,PMI-PMP,en
+738,124,PMBOK Guide,en
+739,124,PRINCE2,en
+740,124,Prince 2,en
+741,124,IPMA,en
+742,124,P2M,en
+743,125,Risk Management,en
+744,125,Риск-менеджмент,ru
+745,125,Реестр рисков,ru
+746,125,Risk register,en
+747,125,Управление рисками проекта,ru
+748,125,Оценка рисков,ru
+749,125,Risk Analysis,en
+750,126,Бюджетирование проектов,ru
+751,126,Budget Management,en
+752,126,Бюджет проекта,ru
+753,126,Project Budget,en
+754,126,Финансовое планирование проектов,ru
+755,126,Управление стоимостью,ru
+756,126,Cost Management,en
+757,126,P&L проекта,ru
+758,126,Cost Control,en
+759,126,Контроль бюджета,ru
+760,126,Финансовый контроль проекта,ru
+761,127,Project Planning,en
+762,127,Планирование проектов,ru
+763,127,Календарное планирование,ru
+764,127,Roadmap,en
+765,127,Дорожная карта,ru
+766,127,Gantt,en
+767,127,Диаграмма Ганта,ru
+768,127,WBS,en
+769,127,Иерархическая структура работ,ru
+770,127,Resource planning,en
+771,127,Планирование ресурсов,ru
+772,127,Оценка трудозатрат,ru
+773,127,Estimation,en
+774,127,Оценка сроков,ru
+775,127,Планирование релизов,ru
+776,127,Release Planning,en
+777,128,Microsoft Project,en
+778,128,MSP,en
+779,128,MS Project Server,en
+780,128,Project Online,en
+781,128,Primavera,en
+782,128,Spider Project,en
+783,128,Merlin Project,en
+784,128,OpenProject,en
+785,128,Planner,en
+786,129,Team Management,en
+787,129,Управление командой разработки,ru
+788,129,Управление людьми,ru
+789,129,People Management,en
+790,129,Leadership,en
+791,129,Лидерство,ru
+792,129,Руководство командой,ru
+793,129,Менторинг,ru
+794,129,Mentoring,en
+795,129,1:1,en
+796,129,Найм,ru
+797,129,Hiring,en
+798,129,Рекрутинг,ru
+799,129,Performance Review,en
+800,129,Development Plan,en
+801,130,Stakeholder Management,en
+802,130,Управление стейкхолдерами,ru
+803,130,Коммуникации с заказчиком,ru
+804,130,Работа с заказчиком,ru
+805,130,Customer Management,en
+806,130,Переговоры,ru
+807,130,Negotiation,en
+808,130,Презентации,ru
+809,130,Stakeholder Communication,en
+810,130,Управление ожиданиями,ru
+811,130,Коммуникации,ru
+812,130,Client Relations,en
+813,130,Взаимодействие со смежными подразделениями,ru
+814,131,Implementation,en
+815,131,Внедрение информационных систем,ru
+816,131,Внедрение ИС,ru
+817,131,Внедрение ERP,ru
+818,131,Внедрение CRM,ru
+819,131,Опытная эксплуатация,ru
+820,131,Go-live,en
+821,131,Миграция данных,ru
+822,131,Data Migration,en
+823,131,Обучение пользователей,ru
+824,131,Сопровождение внедрения,ru
+825,131,Pilot Project,en
+826,131,Rollout,en
+827,131,Cutover,en
+828,131,Приемка проекта,ru
+829,131,UAT,en
+830,131,Приемо-сдаточные испытания,ru
+831,132,Portfolio Management,en
+832,132,Program Management,en
+833,132,Управление портфелем проектов,ru
+834,132,Управление программой,ru
+835,132,Управление программами,ru
+836,132,PMO,en
+837,132,Проектный офис,ru
+838,132,Организация проектного офиса,ru
+839,132,Project Portfolio,en
+840,132,Портфель проектов,ru
+841,132,Multi-project management,en
+842,132,Управление несколькими проектами,ru
+843,133,Project KPI,en
+844,133,Метрики проекта,ru
+845,133,Отчетность по проекту,ru
+846,133,Status Report,en
+847,133,Project Reporting,en
+848,133,Burn-down,en
+849,133,Burndown,en
+850,133,Velocity,en
+851,133,Earned Value,en
+852,133,EVM,en
+853,133,OKR,en
+854,133,Project Metrics,en
+855,133,Project Status,en
+856,133,Статус проекта,ru
+857,134,ITIL 4,en
+858,134,ITIL v3,en
+859,134,ITSM,en
+860,134,IT Service Management,en
+861,134,Управление ИТ-услугами,ru
+862,134,Incident Management,en
+863,134,Change Management,en
+864,134,Управление инцидентами,ru
+865,134,Управление изменениями,ru
+866,134,Управление проблемами,ru
+867,134,SLA,en
+868,134,Service Level Agreement,en
+869,134,ServiceNow,en
+870,134,Service Desk,en
+871,134,Jira Service Management,en
+872,134,Управление конфигурациями,ru
+873,134,CMDB,en
+874,134,COBIT,en
+875,134,Управление ИТ-сервисами,ru
+876,134,ITSM-системы,ru
+877,135,Продуктовый менеджмент,ru
+878,135,Product Discovery,en
+879,135,Product Development,en
+880,135,Product Strategy,en
+881,135,Продуктовая стратегия,ru
+882,135,Product Roadmap,en
+883,135,Продуктовая дорожная карта,ru
+884,135,Backlog,en
+885,135,Бэклог,ru
+886,135,Приоритизация,ru
+887,135,Prioritization,en
+888,135,RICE,en
+889,135,MoSCoW,en
+890,135,Kano,en
+891,135,Go-to-market,en
+892,135,GTM strategy,en
+893,135,PMF,en
+894,135,Product-market fit,en
+895,135,Lean Startup,en
+896,135,MVP,en
+897,135,Product Vision,en
+898,135,Гипотезы,ru
+899,135,Hypothesis-driven,en
+900,135,OKR продукта,ru
+901,135,Unit Economics,en
+902,135,Pricing,en
+903,135,Монетизация,ru
+904,136,Technical Documentation,en
+905,136,Написание документации,ru
+906,136,Разработка документации,ru
+907,136,Docs-as-Code,en
+908,136,Markdown,en
+909,136,Руководство пользователя,ru
+910,136,Руководство администратора,ru
+911,136,User Guide,en
+912,136,Admin Guide,en
+913,136,Release Notes,en
+914,136,Changelog,en
+915,136,Справочные материалы,ru
+916,136,Инструкции,ru
+917,136,Knowledge Base,en
+918,136,Confluence Docs,en
+919,136,ГОСТ 19.xxx,ru
+920,136,ЕСПД,ru
+921,136,Техническое описание,ru
+922,136,API Docs,en
+923,136,API документация,ru
+924,136,OpenAPI docs,en
+925,136,Sphinx,en
+926,136,MkDocs,en
+927,136,Docusaurus,en
+928,136,DITA,en
+929,136,AsciiDoc,en
+930,136,reStructuredText,en
+931,136,Gitbook,en
+932,136,Структурированные документы,ru
+933,137,English,en
+934,137,Английский,ru
+935,137,Технический английский,ru
+936,137,Upper-Intermediate,en
+937,137,B2,en
+938,137,Intermediate,en
+939,137,Английский язык B1,ru
+940,137,Английский язык B2,ru
+941,137,Fluent English,en
+942,137,Разговорный английский,ru
+943,137,Читаю техническую документацию,ru
+944,138,Тайм-менеджмент,ru
+945,138,Time Management,en
+946,138,Многозадачность,ru
+947,138,Multitasking,en
+948,138,Организованность,ru
+949,138,Умение расставлять приоритеты,ru
+950,138,Self-management,en
+951,138,Ответственность,ru
+952,138,Самоорганизация,ru
+953,139,Firebase Cloud Messaging,en
+954,139,FCM,en
+955,139,Firestore,en
+956,139,Crashlytics,en
+957,140,Project Management,en
+958,140,Проектный менеджмент,ru
+959,140,Проектное управление,ru
+960,140,Delivery Management,en
+961,140,Управление IT-проектами,ru
+962,140,Руководство проектами,ru
+963,140,Ведение проектов,ru
+964,140,Delivery,en
